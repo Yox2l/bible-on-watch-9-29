@@ -1,0 +1,3718 @@
+[
+  {
+    "title": "בראשית פרק א",
+    "txt_file_path": "app_data/torah/genesis/1.txt"
+  },
+  {
+    "title": "בראשית פרק ב",
+    "txt_file_path": "app_data/torah/genesis/2.txt"
+  },
+  {
+    "title": "בראשית פרק ג",
+    "txt_file_path": "app_data/torah/genesis/3.txt"
+  },
+  {
+    "title": "בראשית פרק ד",
+    "txt_file_path": "app_data/torah/genesis/4.txt"
+  },
+  {
+    "title": "בראשית פרק ה",
+    "txt_file_path": "app_data/torah/genesis/5.txt"
+  },
+  {
+    "title": "בראשית פרק ו",
+    "txt_file_path": "app_data/torah/genesis/6.txt"
+  },
+  {
+    "title": "בראשית פרק ז",
+    "txt_file_path": "app_data/torah/genesis/7.txt"
+  },
+  {
+    "title": "בראשית פרק ח",
+    "txt_file_path": "app_data/torah/genesis/8.txt"
+  },
+  {
+    "title": "בראשית פרק ט",
+    "txt_file_path": "app_data/torah/genesis/9.txt"
+  },
+  {
+    "title": "בראשית פרק י",
+    "txt_file_path": "app_data/torah/genesis/10.txt"
+  },
+  {
+    "title": "בראשית פרק יא",
+    "txt_file_path": "app_data/torah/genesis/11.txt"
+  },
+  {
+    "title": "בראשית פרק יב",
+    "txt_file_path": "app_data/torah/genesis/12.txt"
+  },
+  {
+    "title": "בראשית פרק יג",
+    "txt_file_path": "app_data/torah/genesis/13.txt"
+  },
+  {
+    "title": "בראשית פרק יד",
+    "txt_file_path": "app_data/torah/genesis/14.txt"
+  },
+  {
+    "title": "בראשית פרק טו",
+    "txt_file_path": "app_data/torah/genesis/15.txt"
+  },
+  {
+    "title": "בראשית פרק טז",
+    "txt_file_path": "app_data/torah/genesis/16.txt"
+  },
+  {
+    "title": "בראשית פרק יז",
+    "txt_file_path": "app_data/torah/genesis/17.txt"
+  },
+  {
+    "title": "בראשית פרק יח",
+    "txt_file_path": "app_data/torah/genesis/18.txt"
+  },
+  {
+    "title": "בראשית פרק יט",
+    "txt_file_path": "app_data/torah/genesis/19.txt"
+  },
+  {
+    "title": "בראשית פרק כ",
+    "txt_file_path": "app_data/torah/genesis/20.txt"
+  },
+  {
+    "title": "בראשית פרק כא",
+    "txt_file_path": "app_data/torah/genesis/21.txt"
+  },
+  {
+    "title": "בראשית פרק כב",
+    "txt_file_path": "app_data/torah/genesis/22.txt"
+  },
+  {
+    "title": "בראשית פרק כג",
+    "txt_file_path": "app_data/torah/genesis/23.txt"
+  },
+  {
+    "title": "בראשית פרק כד",
+    "txt_file_path": "app_data/torah/genesis/24.txt"
+  },
+  {
+    "title": "בראשית פרק כה",
+    "txt_file_path": "app_data/torah/genesis/25.txt"
+  },
+  {
+    "title": "בראשית פרק כו",
+    "txt_file_path": "app_data/torah/genesis/26.txt"
+  },
+  {
+    "title": "בראשית פרק כז",
+    "txt_file_path": "app_data/torah/genesis/27.txt"
+  },
+  {
+    "title": "בראשית פרק כח",
+    "txt_file_path": "app_data/torah/genesis/28.txt"
+  },
+  {
+    "title": "בראשית פרק כט",
+    "txt_file_path": "app_data/torah/genesis/29.txt"
+  },
+  {
+    "title": "בראשית פרק ל",
+    "txt_file_path": "app_data/torah/genesis/30.txt"
+  },
+  {
+    "title": "בראשית פרק לא",
+    "txt_file_path": "app_data/torah/genesis/31.txt"
+  },
+  {
+    "title": "בראשית פרק לב",
+    "txt_file_path": "app_data/torah/genesis/32.txt"
+  },
+  {
+    "title": "בראשית פרק לג",
+    "txt_file_path": "app_data/torah/genesis/33.txt"
+  },
+  {
+    "title": "בראשית פרק לד",
+    "txt_file_path": "app_data/torah/genesis/34.txt"
+  },
+  {
+    "title": "בראשית פרק לה",
+    "txt_file_path": "app_data/torah/genesis/35.txt"
+  },
+  {
+    "title": "בראשית פרק לו",
+    "txt_file_path": "app_data/torah/genesis/36.txt"
+  },
+  {
+    "title": "בראשית פרק לז",
+    "txt_file_path": "app_data/torah/genesis/37.txt"
+  },
+  {
+    "title": "בראשית פרק לח",
+    "txt_file_path": "app_data/torah/genesis/38.txt"
+  },
+  {
+    "title": "בראשית פרק לט",
+    "txt_file_path": "app_data/torah/genesis/39.txt"
+  },
+  {
+    "title": "בראשית פרק מ",
+    "txt_file_path": "app_data/torah/genesis/40.txt"
+  },
+  {
+    "title": "בראשית פרק מא",
+    "txt_file_path": "app_data/torah/genesis/41.txt"
+  },
+  {
+    "title": "בראשית פרק מב",
+    "txt_file_path": "app_data/torah/genesis/42.txt"
+  },
+  {
+    "title": "בראשית פרק מג",
+    "txt_file_path": "app_data/torah/genesis/43.txt"
+  },
+  {
+    "title": "בראשית פרק מד",
+    "txt_file_path": "app_data/torah/genesis/44.txt"
+  },
+  {
+    "title": "בראשית פרק מה",
+    "txt_file_path": "app_data/torah/genesis/45.txt"
+  },
+  {
+    "title": "בראשית פרק מו",
+    "txt_file_path": "app_data/torah/genesis/46.txt"
+  },
+  {
+    "title": "בראשית פרק מז",
+    "txt_file_path": "app_data/torah/genesis/47.txt"
+  },
+  {
+    "title": "בראשית פרק מח",
+    "txt_file_path": "app_data/torah/genesis/48.txt"
+  },
+  {
+    "title": "בראשית פרק מט",
+    "txt_file_path": "app_data/torah/genesis/49.txt"
+  },
+  {
+    "title": "בראשית פרק נ",
+    "txt_file_path": "app_data/torah/genesis/50.txt"
+  },
+  {
+    "title": "שמות פרק א",
+    "txt_file_path": "app_data/torah/exodus/1.txt"
+  },
+  {
+    "title": "שמות פרק ב",
+    "txt_file_path": "app_data/torah/exodus/2.txt"
+  },
+  {
+    "title": "שמות פרק ג",
+    "txt_file_path": "app_data/torah/exodus/3.txt"
+  },
+  {
+    "title": "שמות פרק ד",
+    "txt_file_path": "app_data/torah/exodus/4.txt"
+  },
+  {
+    "title": "שמות פרק ה",
+    "txt_file_path": "app_data/torah/exodus/5.txt"
+  },
+  {
+    "title": "שמות פרק ו",
+    "txt_file_path": "app_data/torah/exodus/6.txt"
+  },
+  {
+    "title": "שמות פרק ז",
+    "txt_file_path": "app_data/torah/exodus/7.txt"
+  },
+  {
+    "title": "שמות פרק ח",
+    "txt_file_path": "app_data/torah/exodus/8.txt"
+  },
+  {
+    "title": "שמות פרק ט",
+    "txt_file_path": "app_data/torah/exodus/9.txt"
+  },
+  {
+    "title": "שמות פרק י",
+    "txt_file_path": "app_data/torah/exodus/10.txt"
+  },
+  {
+    "title": "שמות פרק יא",
+    "txt_file_path": "app_data/torah/exodus/11.txt"
+  },
+  {
+    "title": "שמות פרק יב",
+    "txt_file_path": "app_data/torah/exodus/12.txt"
+  },
+  {
+    "title": "שמות פרק יג",
+    "txt_file_path": "app_data/torah/exodus/13.txt"
+  },
+  {
+    "title": "שמות פרק יד",
+    "txt_file_path": "app_data/torah/exodus/14.txt"
+  },
+  {
+    "title": "שמות פרק טו",
+    "txt_file_path": "app_data/torah/exodus/15.txt"
+  },
+  {
+    "title": "שמות פרק טז",
+    "txt_file_path": "app_data/torah/exodus/16.txt"
+  },
+  {
+    "title": "שמות פרק יז",
+    "txt_file_path": "app_data/torah/exodus/17.txt"
+  },
+  {
+    "title": "שמות פרק יח",
+    "txt_file_path": "app_data/torah/exodus/18.txt"
+  },
+  {
+    "title": "שמות פרק יט",
+    "txt_file_path": "app_data/torah/exodus/19.txt"
+  },
+  {
+    "title": "שמות פרק כ",
+    "txt_file_path": "app_data/torah/exodus/20.txt"
+  },
+  {
+    "title": "שמות פרק כא",
+    "txt_file_path": "app_data/torah/exodus/21.txt"
+  },
+  {
+    "title": "שמות פרק כב",
+    "txt_file_path": "app_data/torah/exodus/22.txt"
+  },
+  {
+    "title": "שמות פרק כג",
+    "txt_file_path": "app_data/torah/exodus/23.txt"
+  },
+  {
+    "title": "שמות פרק כד",
+    "txt_file_path": "app_data/torah/exodus/24.txt"
+  },
+  {
+    "title": "שמות פרק כה",
+    "txt_file_path": "app_data/torah/exodus/25.txt"
+  },
+  {
+    "title": "שמות פרק כו",
+    "txt_file_path": "app_data/torah/exodus/26.txt"
+  },
+  {
+    "title": "שמות פרק כז",
+    "txt_file_path": "app_data/torah/exodus/27.txt"
+  },
+  {
+    "title": "שמות פרק כח",
+    "txt_file_path": "app_data/torah/exodus/28.txt"
+  },
+  {
+    "title": "שמות פרק כט",
+    "txt_file_path": "app_data/torah/exodus/29.txt"
+  },
+  {
+    "title": "שמות פרק ל",
+    "txt_file_path": "app_data/torah/exodus/30.txt"
+  },
+  {
+    "title": "שמות פרק לא",
+    "txt_file_path": "app_data/torah/exodus/31.txt"
+  },
+  {
+    "title": "שמות פרק לב",
+    "txt_file_path": "app_data/torah/exodus/32.txt"
+  },
+  {
+    "title": "שמות פרק לג",
+    "txt_file_path": "app_data/torah/exodus/33.txt"
+  },
+  {
+    "title": "שמות פרק לד",
+    "txt_file_path": "app_data/torah/exodus/34.txt"
+  },
+  {
+    "title": "שמות פרק לה",
+    "txt_file_path": "app_data/torah/exodus/35.txt"
+  },
+  {
+    "title": "שמות פרק לו",
+    "txt_file_path": "app_data/torah/exodus/36.txt"
+  },
+  {
+    "title": "שמות פרק לז",
+    "txt_file_path": "app_data/torah/exodus/37.txt"
+  },
+  {
+    "title": "שמות פרק לח",
+    "txt_file_path": "app_data/torah/exodus/38.txt"
+  },
+  {
+    "title": "שמות פרק לט",
+    "txt_file_path": "app_data/torah/exodus/39.txt"
+  },
+  {
+    "title": "שמות פרק מ",
+    "txt_file_path": "app_data/torah/exodus/40.txt"
+  },
+  {
+    "title": "ויקרא פרק א",
+    "txt_file_path": "app_data/torah/leviticus/1.txt"
+  },
+  {
+    "title": "ויקרא פרק ב",
+    "txt_file_path": "app_data/torah/leviticus/2.txt"
+  },
+  {
+    "title": "ויקרא פרק ג",
+    "txt_file_path": "app_data/torah/leviticus/3.txt"
+  },
+  {
+    "title": "ויקרא פרק ד",
+    "txt_file_path": "app_data/torah/leviticus/4.txt"
+  },
+  {
+    "title": "ויקרא פרק ה",
+    "txt_file_path": "app_data/torah/leviticus/5.txt"
+  },
+  {
+    "title": "ויקרא פרק ו",
+    "txt_file_path": "app_data/torah/leviticus/6.txt"
+  },
+  {
+    "title": "ויקרא פרק ז",
+    "txt_file_path": "app_data/torah/leviticus/7.txt"
+  },
+  {
+    "title": "ויקרא פרק ח",
+    "txt_file_path": "app_data/torah/leviticus/8.txt"
+  },
+  {
+    "title": "ויקרא פרק ט",
+    "txt_file_path": "app_data/torah/leviticus/9.txt"
+  },
+  {
+    "title": "ויקרא פרק י",
+    "txt_file_path": "app_data/torah/leviticus/10.txt"
+  },
+  {
+    "title": "ויקרא פרק יא",
+    "txt_file_path": "app_data/torah/leviticus/11.txt"
+  },
+  {
+    "title": "ויקרא פרק יב",
+    "txt_file_path": "app_data/torah/leviticus/12.txt"
+  },
+  {
+    "title": "ויקרא פרק יג",
+    "txt_file_path": "app_data/torah/leviticus/13.txt"
+  },
+  {
+    "title": "ויקרא פרק יד",
+    "txt_file_path": "app_data/torah/leviticus/14.txt"
+  },
+  {
+    "title": "ויקרא פרק טו",
+    "txt_file_path": "app_data/torah/leviticus/15.txt"
+  },
+  {
+    "title": "ויקרא פרק טז",
+    "txt_file_path": "app_data/torah/leviticus/16.txt"
+  },
+  {
+    "title": "ויקרא פרק יז",
+    "txt_file_path": "app_data/torah/leviticus/17.txt"
+  },
+  {
+    "title": "ויקרא פרק יח",
+    "txt_file_path": "app_data/torah/leviticus/18.txt"
+  },
+  {
+    "title": "ויקרא פרק יט",
+    "txt_file_path": "app_data/torah/leviticus/19.txt"
+  },
+  {
+    "title": "ויקרא פרק כ",
+    "txt_file_path": "app_data/torah/leviticus/20.txt"
+  },
+  {
+    "title": "ויקרא פרק כא",
+    "txt_file_path": "app_data/torah/leviticus/21.txt"
+  },
+  {
+    "title": "ויקרא פרק כב",
+    "txt_file_path": "app_data/torah/leviticus/22.txt"
+  },
+  {
+    "title": "ויקרא פרק כג",
+    "txt_file_path": "app_data/torah/leviticus/23.txt"
+  },
+  {
+    "title": "ויקרא פרק כד",
+    "txt_file_path": "app_data/torah/leviticus/24.txt"
+  },
+  {
+    "title": "ויקרא פרק כה",
+    "txt_file_path": "app_data/torah/leviticus/25.txt"
+  },
+  {
+    "title": "ויקרא פרק כו",
+    "txt_file_path": "app_data/torah/leviticus/26.txt"
+  },
+  {
+    "title": "ויקרא פרק כז",
+    "txt_file_path": "app_data/torah/leviticus/27.txt"
+  },
+  {
+    "title": "במדבר פרק א",
+    "txt_file_path": "app_data/torah/numbers/1.txt"
+  },
+  {
+    "title": "במדבר פרק ב",
+    "txt_file_path": "app_data/torah/numbers/2.txt"
+  },
+  {
+    "title": "במדבר פרק ג",
+    "txt_file_path": "app_data/torah/numbers/3.txt"
+  },
+  {
+    "title": "במדבר פרק ד",
+    "txt_file_path": "app_data/torah/numbers/4.txt"
+  },
+  {
+    "title": "במדבר פרק ה",
+    "txt_file_path": "app_data/torah/numbers/5.txt"
+  },
+  {
+    "title": "במדבר פרק ו",
+    "txt_file_path": "app_data/torah/numbers/6.txt"
+  },
+  {
+    "title": "במדבר פרק ז",
+    "txt_file_path": "app_data/torah/numbers/7.txt"
+  },
+  {
+    "title": "במדבר פרק ח",
+    "txt_file_path": "app_data/torah/numbers/8.txt"
+  },
+  {
+    "title": "במדבר פרק ט",
+    "txt_file_path": "app_data/torah/numbers/9.txt"
+  },
+  {
+    "title": "במדבר פרק י",
+    "txt_file_path": "app_data/torah/numbers/10.txt"
+  },
+  {
+    "title": "במדבר פרק יא",
+    "txt_file_path": "app_data/torah/numbers/11.txt"
+  },
+  {
+    "title": "במדבר פרק יב",
+    "txt_file_path": "app_data/torah/numbers/12.txt"
+  },
+  {
+    "title": "במדבר פרק יג",
+    "txt_file_path": "app_data/torah/numbers/13.txt"
+  },
+  {
+    "title": "במדבר פרק יד",
+    "txt_file_path": "app_data/torah/numbers/14.txt"
+  },
+  {
+    "title": "במדבר פרק טו",
+    "txt_file_path": "app_data/torah/numbers/15.txt"
+  },
+  {
+    "title": "במדבר פרק טז",
+    "txt_file_path": "app_data/torah/numbers/16.txt"
+  },
+  {
+    "title": "במדבר פרק יז",
+    "txt_file_path": "app_data/torah/numbers/17.txt"
+  },
+  {
+    "title": "במדבר פרק יח",
+    "txt_file_path": "app_data/torah/numbers/18.txt"
+  },
+  {
+    "title": "במדבר פרק יט",
+    "txt_file_path": "app_data/torah/numbers/19.txt"
+  },
+  {
+    "title": "במדבר פרק כ",
+    "txt_file_path": "app_data/torah/numbers/20.txt"
+  },
+  {
+    "title": "במדבר פרק כא",
+    "txt_file_path": "app_data/torah/numbers/21.txt"
+  },
+  {
+    "title": "במדבר פרק כב",
+    "txt_file_path": "app_data/torah/numbers/22.txt"
+  },
+  {
+    "title": "במדבר פרק כג",
+    "txt_file_path": "app_data/torah/numbers/23.txt"
+  },
+  {
+    "title": "במדבר פרק כד",
+    "txt_file_path": "app_data/torah/numbers/24.txt"
+  },
+  {
+    "title": "במדבר פרק כה",
+    "txt_file_path": "app_data/torah/numbers/25.txt"
+  },
+  {
+    "title": "במדבר פרק כו",
+    "txt_file_path": "app_data/torah/numbers/26.txt"
+  },
+  {
+    "title": "במדבר פרק כז",
+    "txt_file_path": "app_data/torah/numbers/27.txt"
+  },
+  {
+    "title": "במדבר פרק כח",
+    "txt_file_path": "app_data/torah/numbers/28.txt"
+  },
+  {
+    "title": "במדבר פרק כט",
+    "txt_file_path": "app_data/torah/numbers/29.txt"
+  },
+  {
+    "title": "במדבר פרק ל",
+    "txt_file_path": "app_data/torah/numbers/30.txt"
+  },
+  {
+    "title": "במדבר פרק לא",
+    "txt_file_path": "app_data/torah/numbers/31.txt"
+  },
+  {
+    "title": "במדבר פרק לב",
+    "txt_file_path": "app_data/torah/numbers/32.txt"
+  },
+  {
+    "title": "במדבר פרק לג",
+    "txt_file_path": "app_data/torah/numbers/33.txt"
+  },
+  {
+    "title": "במדבר פרק לד",
+    "txt_file_path": "app_data/torah/numbers/34.txt"
+  },
+  {
+    "title": "במדבר פרק לה",
+    "txt_file_path": "app_data/torah/numbers/35.txt"
+  },
+  {
+    "title": "במדבר פרק לו",
+    "txt_file_path": "app_data/torah/numbers/36.txt"
+  },
+  {
+    "title": "דברים פרק א",
+    "txt_file_path": "app_data/torah/deuteronomy/1.txt"
+  },
+  {
+    "title": "דברים פרק ב",
+    "txt_file_path": "app_data/torah/deuteronomy/2.txt"
+  },
+  {
+    "title": "דברים פרק ג",
+    "txt_file_path": "app_data/torah/deuteronomy/3.txt"
+  },
+  {
+    "title": "דברים פרק ד",
+    "txt_file_path": "app_data/torah/deuteronomy/4.txt"
+  },
+  {
+    "title": "דברים פרק ה",
+    "txt_file_path": "app_data/torah/deuteronomy/5.txt"
+  },
+  {
+    "title": "דברים פרק ו",
+    "txt_file_path": "app_data/torah/deuteronomy/6.txt"
+  },
+  {
+    "title": "דברים פרק ז",
+    "txt_file_path": "app_data/torah/deuteronomy/7.txt"
+  },
+  {
+    "title": "דברים פרק ח",
+    "txt_file_path": "app_data/torah/deuteronomy/8.txt"
+  },
+  {
+    "title": "דברים פרק ט",
+    "txt_file_path": "app_data/torah/deuteronomy/9.txt"
+  },
+  {
+    "title": "דברים פרק י",
+    "txt_file_path": "app_data/torah/deuteronomy/10.txt"
+  },
+  {
+    "title": "דברים פרק יא",
+    "txt_file_path": "app_data/torah/deuteronomy/11.txt"
+  },
+  {
+    "title": "דברים פרק יב",
+    "txt_file_path": "app_data/torah/deuteronomy/12.txt"
+  },
+  {
+    "title": "דברים פרק יג",
+    "txt_file_path": "app_data/torah/deuteronomy/13.txt"
+  },
+  {
+    "title": "דברים פרק יד",
+    "txt_file_path": "app_data/torah/deuteronomy/14.txt"
+  },
+  {
+    "title": "דברים פרק טו",
+    "txt_file_path": "app_data/torah/deuteronomy/15.txt"
+  },
+  {
+    "title": "דברים פרק טז",
+    "txt_file_path": "app_data/torah/deuteronomy/16.txt"
+  },
+  {
+    "title": "דברים פרק יז",
+    "txt_file_path": "app_data/torah/deuteronomy/17.txt"
+  },
+  {
+    "title": "דברים פרק יח",
+    "txt_file_path": "app_data/torah/deuteronomy/18.txt"
+  },
+  {
+    "title": "דברים פרק יט",
+    "txt_file_path": "app_data/torah/deuteronomy/19.txt"
+  },
+  {
+    "title": "דברים פרק כ",
+    "txt_file_path": "app_data/torah/deuteronomy/20.txt"
+  },
+  {
+    "title": "דברים פרק כא",
+    "txt_file_path": "app_data/torah/deuteronomy/21.txt"
+  },
+  {
+    "title": "דברים פרק כב",
+    "txt_file_path": "app_data/torah/deuteronomy/22.txt"
+  },
+  {
+    "title": "דברים פרק כג",
+    "txt_file_path": "app_data/torah/deuteronomy/23.txt"
+  },
+  {
+    "title": "דברים פרק כד",
+    "txt_file_path": "app_data/torah/deuteronomy/24.txt"
+  },
+  {
+    "title": "דברים פרק כה",
+    "txt_file_path": "app_data/torah/deuteronomy/25.txt"
+  },
+  {
+    "title": "דברים פרק כו",
+    "txt_file_path": "app_data/torah/deuteronomy/26.txt"
+  },
+  {
+    "title": "דברים פרק כז",
+    "txt_file_path": "app_data/torah/deuteronomy/27.txt"
+  },
+  {
+    "title": "דברים פרק כח",
+    "txt_file_path": "app_data/torah/deuteronomy/28.txt"
+  },
+  {
+    "title": "דברים פרק כט",
+    "txt_file_path": "app_data/torah/deuteronomy/29.txt"
+  },
+  {
+    "title": "דברים פרק ל",
+    "txt_file_path": "app_data/torah/deuteronomy/30.txt"
+  },
+  {
+    "title": "דברים פרק לא",
+    "txt_file_path": "app_data/torah/deuteronomy/31.txt"
+  },
+  {
+    "title": "דברים פרק לב",
+    "txt_file_path": "app_data/torah/deuteronomy/32.txt"
+  },
+  {
+    "title": "דברים פרק לג",
+    "txt_file_path": "app_data/torah/deuteronomy/33.txt"
+  },
+  {
+    "title": "דברים פרק לד",
+    "txt_file_path": "app_data/torah/deuteronomy/34.txt"
+  },
+  {
+    "title": "יהושע פרק א",
+    "txt_file_path": "app_data/prophets/joshua/1.txt"
+  },
+  {
+    "title": "יהושע פרק ב",
+    "txt_file_path": "app_data/prophets/joshua/2.txt"
+  },
+  {
+    "title": "יהושע פרק ג",
+    "txt_file_path": "app_data/prophets/joshua/3.txt"
+  },
+  {
+    "title": "יהושע פרק ד",
+    "txt_file_path": "app_data/prophets/joshua/4.txt"
+  },
+  {
+    "title": "יהושע פרק ה",
+    "txt_file_path": "app_data/prophets/joshua/5.txt"
+  },
+  {
+    "title": "יהושע פרק ו",
+    "txt_file_path": "app_data/prophets/joshua/6.txt"
+  },
+  {
+    "title": "יהושע פרק ז",
+    "txt_file_path": "app_data/prophets/joshua/7.txt"
+  },
+  {
+    "title": "יהושע פרק ח",
+    "txt_file_path": "app_data/prophets/joshua/8.txt"
+  },
+  {
+    "title": "יהושע פרק ט",
+    "txt_file_path": "app_data/prophets/joshua/9.txt"
+  },
+  {
+    "title": "יהושע פרק י",
+    "txt_file_path": "app_data/prophets/joshua/10.txt"
+  },
+  {
+    "title": "יהושע פרק יא",
+    "txt_file_path": "app_data/prophets/joshua/11.txt"
+  },
+  {
+    "title": "יהושע פרק יב",
+    "txt_file_path": "app_data/prophets/joshua/12.txt"
+  },
+  {
+    "title": "יהושע פרק יג",
+    "txt_file_path": "app_data/prophets/joshua/13.txt"
+  },
+  {
+    "title": "יהושע פרק יד",
+    "txt_file_path": "app_data/prophets/joshua/14.txt"
+  },
+  {
+    "title": "יהושע פרק טו",
+    "txt_file_path": "app_data/prophets/joshua/15.txt"
+  },
+  {
+    "title": "יהושע פרק טז",
+    "txt_file_path": "app_data/prophets/joshua/16.txt"
+  },
+  {
+    "title": "יהושע פרק יז",
+    "txt_file_path": "app_data/prophets/joshua/17.txt"
+  },
+  {
+    "title": "יהושע פרק יח",
+    "txt_file_path": "app_data/prophets/joshua/18.txt"
+  },
+  {
+    "title": "יהושע פרק יט",
+    "txt_file_path": "app_data/prophets/joshua/19.txt"
+  },
+  {
+    "title": "יהושע פרק כ",
+    "txt_file_path": "app_data/prophets/joshua/20.txt"
+  },
+  {
+    "title": "יהושע פרק כא",
+    "txt_file_path": "app_data/prophets/joshua/21.txt"
+  },
+  {
+    "title": "יהושע פרק כב",
+    "txt_file_path": "app_data/prophets/joshua/22.txt"
+  },
+  {
+    "title": "יהושע פרק כג",
+    "txt_file_path": "app_data/prophets/joshua/23.txt"
+  },
+  {
+    "title": "יהושע פרק כד",
+    "txt_file_path": "app_data/prophets/joshua/24.txt"
+  },
+  {
+    "title": "שופטים פרק א",
+    "txt_file_path": "app_data/prophets/judges/1.txt"
+  },
+  {
+    "title": "שופטים פרק ב",
+    "txt_file_path": "app_data/prophets/judges/2.txt"
+  },
+  {
+    "title": "שופטים פרק ג",
+    "txt_file_path": "app_data/prophets/judges/3.txt"
+  },
+  {
+    "title": "שופטים פרק ד",
+    "txt_file_path": "app_data/prophets/judges/4.txt"
+  },
+  {
+    "title": "שופטים פרק ה",
+    "txt_file_path": "app_data/prophets/judges/5.txt"
+  },
+  {
+    "title": "שופטים פרק ו",
+    "txt_file_path": "app_data/prophets/judges/6.txt"
+  },
+  {
+    "title": "שופטים פרק ז",
+    "txt_file_path": "app_data/prophets/judges/7.txt"
+  },
+  {
+    "title": "שופטים פרק ח",
+    "txt_file_path": "app_data/prophets/judges/8.txt"
+  },
+  {
+    "title": "שופטים פרק ט",
+    "txt_file_path": "app_data/prophets/judges/9.txt"
+  },
+  {
+    "title": "שופטים פרק י",
+    "txt_file_path": "app_data/prophets/judges/10.txt"
+  },
+  {
+    "title": "שופטים פרק יא",
+    "txt_file_path": "app_data/prophets/judges/11.txt"
+  },
+  {
+    "title": "שופטים פרק יב",
+    "txt_file_path": "app_data/prophets/judges/12.txt"
+  },
+  {
+    "title": "שופטים פרק יג",
+    "txt_file_path": "app_data/prophets/judges/13.txt"
+  },
+  {
+    "title": "שופטים פרק יד",
+    "txt_file_path": "app_data/prophets/judges/14.txt"
+  },
+  {
+    "title": "שופטים פרק טו",
+    "txt_file_path": "app_data/prophets/judges/15.txt"
+  },
+  {
+    "title": "שופטים פרק טז",
+    "txt_file_path": "app_data/prophets/judges/16.txt"
+  },
+  {
+    "title": "שופטים פרק יז",
+    "txt_file_path": "app_data/prophets/judges/17.txt"
+  },
+  {
+    "title": "שופטים פרק יח",
+    "txt_file_path": "app_data/prophets/judges/18.txt"
+  },
+  {
+    "title": "שופטים פרק יט",
+    "txt_file_path": "app_data/prophets/judges/19.txt"
+  },
+  {
+    "title": "שופטים פרק כ",
+    "txt_file_path": "app_data/prophets/judges/20.txt"
+  },
+  {
+    "title": "שופטים פרק כא",
+    "txt_file_path": "app_data/prophets/judges/21.txt"
+  },
+  {
+    "title": "שמואל א פרק א",
+    "txt_file_path": "app_data/prophets/i_samuel/1.txt"
+  },
+  {
+    "title": "שמואל א פרק ב",
+    "txt_file_path": "app_data/prophets/i_samuel/2.txt"
+  },
+  {
+    "title": "שמואל א פרק ג",
+    "txt_file_path": "app_data/prophets/i_samuel/3.txt"
+  },
+  {
+    "title": "שמואל א פרק ד",
+    "txt_file_path": "app_data/prophets/i_samuel/4.txt"
+  },
+  {
+    "title": "שמואל א פרק ה",
+    "txt_file_path": "app_data/prophets/i_samuel/5.txt"
+  },
+  {
+    "title": "שמואל א פרק ו",
+    "txt_file_path": "app_data/prophets/i_samuel/6.txt"
+  },
+  {
+    "title": "שמואל א פרק ז",
+    "txt_file_path": "app_data/prophets/i_samuel/7.txt"
+  },
+  {
+    "title": "שמואל א פרק ח",
+    "txt_file_path": "app_data/prophets/i_samuel/8.txt"
+  },
+  {
+    "title": "שמואל א פרק ט",
+    "txt_file_path": "app_data/prophets/i_samuel/9.txt"
+  },
+  {
+    "title": "שמואל א פרק י",
+    "txt_file_path": "app_data/prophets/i_samuel/10.txt"
+  },
+  {
+    "title": "שמואל א פרק יא",
+    "txt_file_path": "app_data/prophets/i_samuel/11.txt"
+  },
+  {
+    "title": "שמואל א פרק יב",
+    "txt_file_path": "app_data/prophets/i_samuel/12.txt"
+  },
+  {
+    "title": "שמואל א פרק יג",
+    "txt_file_path": "app_data/prophets/i_samuel/13.txt"
+  },
+  {
+    "title": "שמואל א פרק יד",
+    "txt_file_path": "app_data/prophets/i_samuel/14.txt"
+  },
+  {
+    "title": "שמואל א פרק טו",
+    "txt_file_path": "app_data/prophets/i_samuel/15.txt"
+  },
+  {
+    "title": "שמואל א פרק טז",
+    "txt_file_path": "app_data/prophets/i_samuel/16.txt"
+  },
+  {
+    "title": "שמואל א פרק יז",
+    "txt_file_path": "app_data/prophets/i_samuel/17.txt"
+  },
+  {
+    "title": "שמואל א פרק יח",
+    "txt_file_path": "app_data/prophets/i_samuel/18.txt"
+  },
+  {
+    "title": "שמואל א פרק יט",
+    "txt_file_path": "app_data/prophets/i_samuel/19.txt"
+  },
+  {
+    "title": "שמואל א פרק כ",
+    "txt_file_path": "app_data/prophets/i_samuel/20.txt"
+  },
+  {
+    "title": "שמואל א פרק כא",
+    "txt_file_path": "app_data/prophets/i_samuel/21.txt"
+  },
+  {
+    "title": "שמואל א פרק כב",
+    "txt_file_path": "app_data/prophets/i_samuel/22.txt"
+  },
+  {
+    "title": "שמואל א פרק כג",
+    "txt_file_path": "app_data/prophets/i_samuel/23.txt"
+  },
+  {
+    "title": "שמואל א פרק כד",
+    "txt_file_path": "app_data/prophets/i_samuel/24.txt"
+  },
+  {
+    "title": "שמואל א פרק כה",
+    "txt_file_path": "app_data/prophets/i_samuel/25.txt"
+  },
+  {
+    "title": "שמואל א פרק כו",
+    "txt_file_path": "app_data/prophets/i_samuel/26.txt"
+  },
+  {
+    "title": "שמואל א פרק כז",
+    "txt_file_path": "app_data/prophets/i_samuel/27.txt"
+  },
+  {
+    "title": "שמואל א פרק כח",
+    "txt_file_path": "app_data/prophets/i_samuel/28.txt"
+  },
+  {
+    "title": "שמואל א פרק כט",
+    "txt_file_path": "app_data/prophets/i_samuel/29.txt"
+  },
+  {
+    "title": "שמואל א פרק ל",
+    "txt_file_path": "app_data/prophets/i_samuel/30.txt"
+  },
+  {
+    "title": "שמואל א פרק לא",
+    "txt_file_path": "app_data/prophets/i_samuel/31.txt"
+  },
+  {
+    "title": "שמואל ב פרק א",
+    "txt_file_path": "app_data/prophets/ii_samuel/1.txt"
+  },
+  {
+    "title": "שמואל ב פרק ב",
+    "txt_file_path": "app_data/prophets/ii_samuel/2.txt"
+  },
+  {
+    "title": "שמואל ב פרק ג",
+    "txt_file_path": "app_data/prophets/ii_samuel/3.txt"
+  },
+  {
+    "title": "שמואל ב פרק ד",
+    "txt_file_path": "app_data/prophets/ii_samuel/4.txt"
+  },
+  {
+    "title": "שמואל ב פרק ה",
+    "txt_file_path": "app_data/prophets/ii_samuel/5.txt"
+  },
+  {
+    "title": "שמואל ב פרק ו",
+    "txt_file_path": "app_data/prophets/ii_samuel/6.txt"
+  },
+  {
+    "title": "שמואל ב פרק ז",
+    "txt_file_path": "app_data/prophets/ii_samuel/7.txt"
+  },
+  {
+    "title": "שמואל ב פרק ח",
+    "txt_file_path": "app_data/prophets/ii_samuel/8.txt"
+  },
+  {
+    "title": "שמואל ב פרק ט",
+    "txt_file_path": "app_data/prophets/ii_samuel/9.txt"
+  },
+  {
+    "title": "שמואל ב פרק י",
+    "txt_file_path": "app_data/prophets/ii_samuel/10.txt"
+  },
+  {
+    "title": "שמואל ב פרק יא",
+    "txt_file_path": "app_data/prophets/ii_samuel/11.txt"
+  },
+  {
+    "title": "שמואל ב פרק יב",
+    "txt_file_path": "app_data/prophets/ii_samuel/12.txt"
+  },
+  {
+    "title": "שמואל ב פרק יג",
+    "txt_file_path": "app_data/prophets/ii_samuel/13.txt"
+  },
+  {
+    "title": "שמואל ב פרק יד",
+    "txt_file_path": "app_data/prophets/ii_samuel/14.txt"
+  },
+  {
+    "title": "שמואל ב פרק טו",
+    "txt_file_path": "app_data/prophets/ii_samuel/15.txt"
+  },
+  {
+    "title": "שמואל ב פרק טז",
+    "txt_file_path": "app_data/prophets/ii_samuel/16.txt"
+  },
+  {
+    "title": "שמואל ב פרק יז",
+    "txt_file_path": "app_data/prophets/ii_samuel/17.txt"
+  },
+  {
+    "title": "שמואל ב פרק יח",
+    "txt_file_path": "app_data/prophets/ii_samuel/18.txt"
+  },
+  {
+    "title": "שמואל ב פרק יט",
+    "txt_file_path": "app_data/prophets/ii_samuel/19.txt"
+  },
+  {
+    "title": "שמואל ב פרק כ",
+    "txt_file_path": "app_data/prophets/ii_samuel/20.txt"
+  },
+  {
+    "title": "שמואל ב פרק כא",
+    "txt_file_path": "app_data/prophets/ii_samuel/21.txt"
+  },
+  {
+    "title": "שמואל ב פרק כב",
+    "txt_file_path": "app_data/prophets/ii_samuel/22.txt"
+  },
+  {
+    "title": "שמואל ב פרק כג",
+    "txt_file_path": "app_data/prophets/ii_samuel/23.txt"
+  },
+  {
+    "title": "שמואל ב פרק כד",
+    "txt_file_path": "app_data/prophets/ii_samuel/24.txt"
+  },
+  {
+    "title": "מלכים א פרק א",
+    "txt_file_path": "app_data/prophets/i_kings/1.txt"
+  },
+  {
+    "title": "מלכים א פרק ב",
+    "txt_file_path": "app_data/prophets/i_kings/2.txt"
+  },
+  {
+    "title": "מלכים א פרק ג",
+    "txt_file_path": "app_data/prophets/i_kings/3.txt"
+  },
+  {
+    "title": "מלכים א פרק ד",
+    "txt_file_path": "app_data/prophets/i_kings/4.txt"
+  },
+  {
+    "title": "מלכים א פרק ה",
+    "txt_file_path": "app_data/prophets/i_kings/5.txt"
+  },
+  {
+    "title": "מלכים א פרק ו",
+    "txt_file_path": "app_data/prophets/i_kings/6.txt"
+  },
+  {
+    "title": "מלכים א פרק ז",
+    "txt_file_path": "app_data/prophets/i_kings/7.txt"
+  },
+  {
+    "title": "מלכים א פרק ח",
+    "txt_file_path": "app_data/prophets/i_kings/8.txt"
+  },
+  {
+    "title": "מלכים א פרק ט",
+    "txt_file_path": "app_data/prophets/i_kings/9.txt"
+  },
+  {
+    "title": "מלכים א פרק י",
+    "txt_file_path": "app_data/prophets/i_kings/10.txt"
+  },
+  {
+    "title": "מלכים א פרק יא",
+    "txt_file_path": "app_data/prophets/i_kings/11.txt"
+  },
+  {
+    "title": "מלכים א פרק יב",
+    "txt_file_path": "app_data/prophets/i_kings/12.txt"
+  },
+  {
+    "title": "מלכים א פרק יג",
+    "txt_file_path": "app_data/prophets/i_kings/13.txt"
+  },
+  {
+    "title": "מלכים א פרק יד",
+    "txt_file_path": "app_data/prophets/i_kings/14.txt"
+  },
+  {
+    "title": "מלכים א פרק טו",
+    "txt_file_path": "app_data/prophets/i_kings/15.txt"
+  },
+  {
+    "title": "מלכים א פרק טז",
+    "txt_file_path": "app_data/prophets/i_kings/16.txt"
+  },
+  {
+    "title": "מלכים א פרק יז",
+    "txt_file_path": "app_data/prophets/i_kings/17.txt"
+  },
+  {
+    "title": "מלכים א פרק יח",
+    "txt_file_path": "app_data/prophets/i_kings/18.txt"
+  },
+  {
+    "title": "מלכים א פרק יט",
+    "txt_file_path": "app_data/prophets/i_kings/19.txt"
+  },
+  {
+    "title": "מלכים א פרק כ",
+    "txt_file_path": "app_data/prophets/i_kings/20.txt"
+  },
+  {
+    "title": "מלכים א פרק כא",
+    "txt_file_path": "app_data/prophets/i_kings/21.txt"
+  },
+  {
+    "title": "מלכים א פרק כב",
+    "txt_file_path": "app_data/prophets/i_kings/22.txt"
+  },
+  {
+    "title": "מלכים ב פרק א",
+    "txt_file_path": "app_data/prophets/ii_kings/1.txt"
+  },
+  {
+    "title": "מלכים ב פרק ב",
+    "txt_file_path": "app_data/prophets/ii_kings/2.txt"
+  },
+  {
+    "title": "מלכים ב פרק ג",
+    "txt_file_path": "app_data/prophets/ii_kings/3.txt"
+  },
+  {
+    "title": "מלכים ב פרק ד",
+    "txt_file_path": "app_data/prophets/ii_kings/4.txt"
+  },
+  {
+    "title": "מלכים ב פרק ה",
+    "txt_file_path": "app_data/prophets/ii_kings/5.txt"
+  },
+  {
+    "title": "מלכים ב פרק ו",
+    "txt_file_path": "app_data/prophets/ii_kings/6.txt"
+  },
+  {
+    "title": "מלכים ב פרק ז",
+    "txt_file_path": "app_data/prophets/ii_kings/7.txt"
+  },
+  {
+    "title": "מלכים ב פרק ח",
+    "txt_file_path": "app_data/prophets/ii_kings/8.txt"
+  },
+  {
+    "title": "מלכים ב פרק ט",
+    "txt_file_path": "app_data/prophets/ii_kings/9.txt"
+  },
+  {
+    "title": "מלכים ב פרק י",
+    "txt_file_path": "app_data/prophets/ii_kings/10.txt"
+  },
+  {
+    "title": "מלכים ב פרק יא",
+    "txt_file_path": "app_data/prophets/ii_kings/11.txt"
+  },
+  {
+    "title": "מלכים ב פרק יב",
+    "txt_file_path": "app_data/prophets/ii_kings/12.txt"
+  },
+  {
+    "title": "מלכים ב פרק יג",
+    "txt_file_path": "app_data/prophets/ii_kings/13.txt"
+  },
+  {
+    "title": "מלכים ב פרק יד",
+    "txt_file_path": "app_data/prophets/ii_kings/14.txt"
+  },
+  {
+    "title": "מלכים ב פרק טו",
+    "txt_file_path": "app_data/prophets/ii_kings/15.txt"
+  },
+  {
+    "title": "מלכים ב פרק טז",
+    "txt_file_path": "app_data/prophets/ii_kings/16.txt"
+  },
+  {
+    "title": "מלכים ב פרק יז",
+    "txt_file_path": "app_data/prophets/ii_kings/17.txt"
+  },
+  {
+    "title": "מלכים ב פרק יח",
+    "txt_file_path": "app_data/prophets/ii_kings/18.txt"
+  },
+  {
+    "title": "מלכים ב פרק יט",
+    "txt_file_path": "app_data/prophets/ii_kings/19.txt"
+  },
+  {
+    "title": "מלכים ב פרק כ",
+    "txt_file_path": "app_data/prophets/ii_kings/20.txt"
+  },
+  {
+    "title": "מלכים ב פרק כא",
+    "txt_file_path": "app_data/prophets/ii_kings/21.txt"
+  },
+  {
+    "title": "מלכים ב פרק כב",
+    "txt_file_path": "app_data/prophets/ii_kings/22.txt"
+  },
+  {
+    "title": "מלכים ב פרק כג",
+    "txt_file_path": "app_data/prophets/ii_kings/23.txt"
+  },
+  {
+    "title": "מלכים ב פרק כד",
+    "txt_file_path": "app_data/prophets/ii_kings/24.txt"
+  },
+  {
+    "title": "מלכים ב פרק כה",
+    "txt_file_path": "app_data/prophets/ii_kings/25.txt"
+  },
+  {
+    "title": "ישעיהו פרק א",
+    "txt_file_path": "app_data/prophets/isaiah/1.txt"
+  },
+  {
+    "title": "ישעיהו פרק ב",
+    "txt_file_path": "app_data/prophets/isaiah/2.txt"
+  },
+  {
+    "title": "ישעיהו פרק ג",
+    "txt_file_path": "app_data/prophets/isaiah/3.txt"
+  },
+  {
+    "title": "ישעיהו פרק ד",
+    "txt_file_path": "app_data/prophets/isaiah/4.txt"
+  },
+  {
+    "title": "ישעיהו פרק ה",
+    "txt_file_path": "app_data/prophets/isaiah/5.txt"
+  },
+  {
+    "title": "ישעיהו פרק ו",
+    "txt_file_path": "app_data/prophets/isaiah/6.txt"
+  },
+  {
+    "title": "ישעיהו פרק ז",
+    "txt_file_path": "app_data/prophets/isaiah/7.txt"
+  },
+  {
+    "title": "ישעיהו פרק ח",
+    "txt_file_path": "app_data/prophets/isaiah/8.txt"
+  },
+  {
+    "title": "ישעיהו פרק ט",
+    "txt_file_path": "app_data/prophets/isaiah/9.txt"
+  },
+  {
+    "title": "ישעיהו פרק י",
+    "txt_file_path": "app_data/prophets/isaiah/10.txt"
+  },
+  {
+    "title": "ישעיהו פרק יא",
+    "txt_file_path": "app_data/prophets/isaiah/11.txt"
+  },
+  {
+    "title": "ישעיהו פרק יב",
+    "txt_file_path": "app_data/prophets/isaiah/12.txt"
+  },
+  {
+    "title": "ישעיהו פרק יג",
+    "txt_file_path": "app_data/prophets/isaiah/13.txt"
+  },
+  {
+    "title": "ישעיהו פרק יד",
+    "txt_file_path": "app_data/prophets/isaiah/14.txt"
+  },
+  {
+    "title": "ישעיהו פרק טו",
+    "txt_file_path": "app_data/prophets/isaiah/15.txt"
+  },
+  {
+    "title": "ישעיהו פרק טז",
+    "txt_file_path": "app_data/prophets/isaiah/16.txt"
+  },
+  {
+    "title": "ישעיהו פרק יז",
+    "txt_file_path": "app_data/prophets/isaiah/17.txt"
+  },
+  {
+    "title": "ישעיהו פרק יח",
+    "txt_file_path": "app_data/prophets/isaiah/18.txt"
+  },
+  {
+    "title": "ישעיהו פרק יט",
+    "txt_file_path": "app_data/prophets/isaiah/19.txt"
+  },
+  {
+    "title": "ישעיהו פרק כ",
+    "txt_file_path": "app_data/prophets/isaiah/20.txt"
+  },
+  {
+    "title": "ישעיהו פרק כא",
+    "txt_file_path": "app_data/prophets/isaiah/21.txt"
+  },
+  {
+    "title": "ישעיהו פרק כב",
+    "txt_file_path": "app_data/prophets/isaiah/22.txt"
+  },
+  {
+    "title": "ישעיהו פרק כג",
+    "txt_file_path": "app_data/prophets/isaiah/23.txt"
+  },
+  {
+    "title": "ישעיהו פרק כד",
+    "txt_file_path": "app_data/prophets/isaiah/24.txt"
+  },
+  {
+    "title": "ישעיהו פרק כה",
+    "txt_file_path": "app_data/prophets/isaiah/25.txt"
+  },
+  {
+    "title": "ישעיהו פרק כו",
+    "txt_file_path": "app_data/prophets/isaiah/26.txt"
+  },
+  {
+    "title": "ישעיהו פרק כז",
+    "txt_file_path": "app_data/prophets/isaiah/27.txt"
+  },
+  {
+    "title": "ישעיהו פרק כח",
+    "txt_file_path": "app_data/prophets/isaiah/28.txt"
+  },
+  {
+    "title": "ישעיהו פרק כט",
+    "txt_file_path": "app_data/prophets/isaiah/29.txt"
+  },
+  {
+    "title": "ישעיהו פרק ל",
+    "txt_file_path": "app_data/prophets/isaiah/30.txt"
+  },
+  {
+    "title": "ישעיהו פרק לא",
+    "txt_file_path": "app_data/prophets/isaiah/31.txt"
+  },
+  {
+    "title": "ישעיהו פרק לב",
+    "txt_file_path": "app_data/prophets/isaiah/32.txt"
+  },
+  {
+    "title": "ישעיהו פרק לג",
+    "txt_file_path": "app_data/prophets/isaiah/33.txt"
+  },
+  {
+    "title": "ישעיהו פרק לד",
+    "txt_file_path": "app_data/prophets/isaiah/34.txt"
+  },
+  {
+    "title": "ישעיהו פרק לה",
+    "txt_file_path": "app_data/prophets/isaiah/35.txt"
+  },
+  {
+    "title": "ישעיהו פרק לו",
+    "txt_file_path": "app_data/prophets/isaiah/36.txt"
+  },
+  {
+    "title": "ישעיהו פרק לז",
+    "txt_file_path": "app_data/prophets/isaiah/37.txt"
+  },
+  {
+    "title": "ישעיהו פרק לח",
+    "txt_file_path": "app_data/prophets/isaiah/38.txt"
+  },
+  {
+    "title": "ישעיהו פרק לט",
+    "txt_file_path": "app_data/prophets/isaiah/39.txt"
+  },
+  {
+    "title": "ישעיהו פרק מ",
+    "txt_file_path": "app_data/prophets/isaiah/40.txt"
+  },
+  {
+    "title": "ישעיהו פרק מא",
+    "txt_file_path": "app_data/prophets/isaiah/41.txt"
+  },
+  {
+    "title": "ישעיהו פרק מב",
+    "txt_file_path": "app_data/prophets/isaiah/42.txt"
+  },
+  {
+    "title": "ישעיהו פרק מג",
+    "txt_file_path": "app_data/prophets/isaiah/43.txt"
+  },
+  {
+    "title": "ישעיהו פרק מד",
+    "txt_file_path": "app_data/prophets/isaiah/44.txt"
+  },
+  {
+    "title": "ישעיהו פרק מה",
+    "txt_file_path": "app_data/prophets/isaiah/45.txt"
+  },
+  {
+    "title": "ישעיהו פרק מו",
+    "txt_file_path": "app_data/prophets/isaiah/46.txt"
+  },
+  {
+    "title": "ישעיהו פרק מז",
+    "txt_file_path": "app_data/prophets/isaiah/47.txt"
+  },
+  {
+    "title": "ישעיהו פרק מח",
+    "txt_file_path": "app_data/prophets/isaiah/48.txt"
+  },
+  {
+    "title": "ישעיהו פרק מט",
+    "txt_file_path": "app_data/prophets/isaiah/49.txt"
+  },
+  {
+    "title": "ישעיהו פרק נ",
+    "txt_file_path": "app_data/prophets/isaiah/50.txt"
+  },
+  {
+    "title": "ישעיהו פרק נא",
+    "txt_file_path": "app_data/prophets/isaiah/51.txt"
+  },
+  {
+    "title": "ישעיהו פרק נב",
+    "txt_file_path": "app_data/prophets/isaiah/52.txt"
+  },
+  {
+    "title": "ישעיהו פרק נג",
+    "txt_file_path": "app_data/prophets/isaiah/53.txt"
+  },
+  {
+    "title": "ישעיהו פרק נד",
+    "txt_file_path": "app_data/prophets/isaiah/54.txt"
+  },
+  {
+    "title": "ישעיהו פרק נה",
+    "txt_file_path": "app_data/prophets/isaiah/55.txt"
+  },
+  {
+    "title": "ישעיהו פרק נו",
+    "txt_file_path": "app_data/prophets/isaiah/56.txt"
+  },
+  {
+    "title": "ישעיהו פרק נז",
+    "txt_file_path": "app_data/prophets/isaiah/57.txt"
+  },
+  {
+    "title": "ישעיהו פרק נח",
+    "txt_file_path": "app_data/prophets/isaiah/58.txt"
+  },
+  {
+    "title": "ישעיהו פרק נט",
+    "txt_file_path": "app_data/prophets/isaiah/59.txt"
+  },
+  {
+    "title": "ישעיהו פרק ס",
+    "txt_file_path": "app_data/prophets/isaiah/60.txt"
+  },
+  {
+    "title": "ישעיהו פרק סא",
+    "txt_file_path": "app_data/prophets/isaiah/61.txt"
+  },
+  {
+    "title": "ישעיהו פרק סב",
+    "txt_file_path": "app_data/prophets/isaiah/62.txt"
+  },
+  {
+    "title": "ישעיהו פרק סג",
+    "txt_file_path": "app_data/prophets/isaiah/63.txt"
+  },
+  {
+    "title": "ישעיהו פרק סד",
+    "txt_file_path": "app_data/prophets/isaiah/64.txt"
+  },
+  {
+    "title": "ישעיהו פרק סה",
+    "txt_file_path": "app_data/prophets/isaiah/65.txt"
+  },
+  {
+    "title": "ישעיהו פרק סו",
+    "txt_file_path": "app_data/prophets/isaiah/66.txt"
+  },
+  {
+    "title": "ירמיהו פרק א",
+    "txt_file_path": "app_data/prophets/jeremiah/1.txt"
+  },
+  {
+    "title": "ירמיהו פרק ב",
+    "txt_file_path": "app_data/prophets/jeremiah/2.txt"
+  },
+  {
+    "title": "ירמיהו פרק ג",
+    "txt_file_path": "app_data/prophets/jeremiah/3.txt"
+  },
+  {
+    "title": "ירמיהו פרק ד",
+    "txt_file_path": "app_data/prophets/jeremiah/4.txt"
+  },
+  {
+    "title": "ירמיהו פרק ה",
+    "txt_file_path": "app_data/prophets/jeremiah/5.txt"
+  },
+  {
+    "title": "ירמיהו פרק ו",
+    "txt_file_path": "app_data/prophets/jeremiah/6.txt"
+  },
+  {
+    "title": "ירמיהו פרק ז",
+    "txt_file_path": "app_data/prophets/jeremiah/7.txt"
+  },
+  {
+    "title": "ירמיהו פרק ח",
+    "txt_file_path": "app_data/prophets/jeremiah/8.txt"
+  },
+  {
+    "title": "ירמיהו פרק ט",
+    "txt_file_path": "app_data/prophets/jeremiah/9.txt"
+  },
+  {
+    "title": "ירמיהו פרק י",
+    "txt_file_path": "app_data/prophets/jeremiah/10.txt"
+  },
+  {
+    "title": "ירמיהו פרק יא",
+    "txt_file_path": "app_data/prophets/jeremiah/11.txt"
+  },
+  {
+    "title": "ירמיהו פרק יב",
+    "txt_file_path": "app_data/prophets/jeremiah/12.txt"
+  },
+  {
+    "title": "ירמיהו פרק יג",
+    "txt_file_path": "app_data/prophets/jeremiah/13.txt"
+  },
+  {
+    "title": "ירמיהו פרק יד",
+    "txt_file_path": "app_data/prophets/jeremiah/14.txt"
+  },
+  {
+    "title": "ירמיהו פרק טו",
+    "txt_file_path": "app_data/prophets/jeremiah/15.txt"
+  },
+  {
+    "title": "ירמיהו פרק טז",
+    "txt_file_path": "app_data/prophets/jeremiah/16.txt"
+  },
+  {
+    "title": "ירמיהו פרק יז",
+    "txt_file_path": "app_data/prophets/jeremiah/17.txt"
+  },
+  {
+    "title": "ירמיהו פרק יח",
+    "txt_file_path": "app_data/prophets/jeremiah/18.txt"
+  },
+  {
+    "title": "ירמיהו פרק יט",
+    "txt_file_path": "app_data/prophets/jeremiah/19.txt"
+  },
+  {
+    "title": "ירמיהו פרק כ",
+    "txt_file_path": "app_data/prophets/jeremiah/20.txt"
+  },
+  {
+    "title": "ירמיהו פרק כא",
+    "txt_file_path": "app_data/prophets/jeremiah/21.txt"
+  },
+  {
+    "title": "ירמיהו פרק כב",
+    "txt_file_path": "app_data/prophets/jeremiah/22.txt"
+  },
+  {
+    "title": "ירמיהו פרק כג",
+    "txt_file_path": "app_data/prophets/jeremiah/23.txt"
+  },
+  {
+    "title": "ירמיהו פרק כד",
+    "txt_file_path": "app_data/prophets/jeremiah/24.txt"
+  },
+  {
+    "title": "ירמיהו פרק כה",
+    "txt_file_path": "app_data/prophets/jeremiah/25.txt"
+  },
+  {
+    "title": "ירמיהו פרק כו",
+    "txt_file_path": "app_data/prophets/jeremiah/26.txt"
+  },
+  {
+    "title": "ירמיהו פרק כז",
+    "txt_file_path": "app_data/prophets/jeremiah/27.txt"
+  },
+  {
+    "title": "ירמיהו פרק כח",
+    "txt_file_path": "app_data/prophets/jeremiah/28.txt"
+  },
+  {
+    "title": "ירמיהו פרק כט",
+    "txt_file_path": "app_data/prophets/jeremiah/29.txt"
+  },
+  {
+    "title": "ירמיהו פרק ל",
+    "txt_file_path": "app_data/prophets/jeremiah/30.txt"
+  },
+  {
+    "title": "ירמיהו פרק לא",
+    "txt_file_path": "app_data/prophets/jeremiah/31.txt"
+  },
+  {
+    "title": "ירמיהו פרק לב",
+    "txt_file_path": "app_data/prophets/jeremiah/32.txt"
+  },
+  {
+    "title": "ירמיהו פרק לג",
+    "txt_file_path": "app_data/prophets/jeremiah/33.txt"
+  },
+  {
+    "title": "ירמיהו פרק לד",
+    "txt_file_path": "app_data/prophets/jeremiah/34.txt"
+  },
+  {
+    "title": "ירמיהו פרק לה",
+    "txt_file_path": "app_data/prophets/jeremiah/35.txt"
+  },
+  {
+    "title": "ירמיהו פרק לו",
+    "txt_file_path": "app_data/prophets/jeremiah/36.txt"
+  },
+  {
+    "title": "ירמיהו פרק לז",
+    "txt_file_path": "app_data/prophets/jeremiah/37.txt"
+  },
+  {
+    "title": "ירמיהו פרק לח",
+    "txt_file_path": "app_data/prophets/jeremiah/38.txt"
+  },
+  {
+    "title": "ירמיהו פרק לט",
+    "txt_file_path": "app_data/prophets/jeremiah/39.txt"
+  },
+  {
+    "title": "ירמיהו פרק מ",
+    "txt_file_path": "app_data/prophets/jeremiah/40.txt"
+  },
+  {
+    "title": "ירמיהו פרק מא",
+    "txt_file_path": "app_data/prophets/jeremiah/41.txt"
+  },
+  {
+    "title": "ירמיהו פרק מב",
+    "txt_file_path": "app_data/prophets/jeremiah/42.txt"
+  },
+  {
+    "title": "ירמיהו פרק מג",
+    "txt_file_path": "app_data/prophets/jeremiah/43.txt"
+  },
+  {
+    "title": "ירמיהו פרק מד",
+    "txt_file_path": "app_data/prophets/jeremiah/44.txt"
+  },
+  {
+    "title": "ירמיהו פרק מה",
+    "txt_file_path": "app_data/prophets/jeremiah/45.txt"
+  },
+  {
+    "title": "ירמיהו פרק מו",
+    "txt_file_path": "app_data/prophets/jeremiah/46.txt"
+  },
+  {
+    "title": "ירמיהו פרק מז",
+    "txt_file_path": "app_data/prophets/jeremiah/47.txt"
+  },
+  {
+    "title": "ירמיהו פרק מח",
+    "txt_file_path": "app_data/prophets/jeremiah/48.txt"
+  },
+  {
+    "title": "ירמיהו פרק מט",
+    "txt_file_path": "app_data/prophets/jeremiah/49.txt"
+  },
+  {
+    "title": "ירמיהו פרק נ",
+    "txt_file_path": "app_data/prophets/jeremiah/50.txt"
+  },
+  {
+    "title": "ירמיהו פרק נא",
+    "txt_file_path": "app_data/prophets/jeremiah/51.txt"
+  },
+  {
+    "title": "ירמיהו פרק נב",
+    "txt_file_path": "app_data/prophets/jeremiah/52.txt"
+  },
+  {
+    "title": "יחזקאל פרק א",
+    "txt_file_path": "app_data/prophets/ezekiel/1.txt"
+  },
+  {
+    "title": "יחזקאל פרק ב",
+    "txt_file_path": "app_data/prophets/ezekiel/2.txt"
+  },
+  {
+    "title": "יחזקאל פרק ג",
+    "txt_file_path": "app_data/prophets/ezekiel/3.txt"
+  },
+  {
+    "title": "יחזקאל פרק ד",
+    "txt_file_path": "app_data/prophets/ezekiel/4.txt"
+  },
+  {
+    "title": "יחזקאל פרק ה",
+    "txt_file_path": "app_data/prophets/ezekiel/5.txt"
+  },
+  {
+    "title": "יחזקאל פרק ו",
+    "txt_file_path": "app_data/prophets/ezekiel/6.txt"
+  },
+  {
+    "title": "יחזקאל פרק ז",
+    "txt_file_path": "app_data/prophets/ezekiel/7.txt"
+  },
+  {
+    "title": "יחזקאל פרק ח",
+    "txt_file_path": "app_data/prophets/ezekiel/8.txt"
+  },
+  {
+    "title": "יחזקאל פרק ט",
+    "txt_file_path": "app_data/prophets/ezekiel/9.txt"
+  },
+  {
+    "title": "יחזקאל פרק י",
+    "txt_file_path": "app_data/prophets/ezekiel/10.txt"
+  },
+  {
+    "title": "יחזקאל פרק יא",
+    "txt_file_path": "app_data/prophets/ezekiel/11.txt"
+  },
+  {
+    "title": "יחזקאל פרק יב",
+    "txt_file_path": "app_data/prophets/ezekiel/12.txt"
+  },
+  {
+    "title": "יחזקאל פרק יג",
+    "txt_file_path": "app_data/prophets/ezekiel/13.txt"
+  },
+  {
+    "title": "יחזקאל פרק יד",
+    "txt_file_path": "app_data/prophets/ezekiel/14.txt"
+  },
+  {
+    "title": "יחזקאל פרק טו",
+    "txt_file_path": "app_data/prophets/ezekiel/15.txt"
+  },
+  {
+    "title": "יחזקאל פרק טז",
+    "txt_file_path": "app_data/prophets/ezekiel/16.txt"
+  },
+  {
+    "title": "יחזקאל פרק יז",
+    "txt_file_path": "app_data/prophets/ezekiel/17.txt"
+  },
+  {
+    "title": "יחזקאל פרק יח",
+    "txt_file_path": "app_data/prophets/ezekiel/18.txt"
+  },
+  {
+    "title": "יחזקאל פרק יט",
+    "txt_file_path": "app_data/prophets/ezekiel/19.txt"
+  },
+  {
+    "title": "יחזקאל פרק כ",
+    "txt_file_path": "app_data/prophets/ezekiel/20.txt"
+  },
+  {
+    "title": "יחזקאל פרק כא",
+    "txt_file_path": "app_data/prophets/ezekiel/21.txt"
+  },
+  {
+    "title": "יחזקאל פרק כב",
+    "txt_file_path": "app_data/prophets/ezekiel/22.txt"
+  },
+  {
+    "title": "יחזקאל פרק כג",
+    "txt_file_path": "app_data/prophets/ezekiel/23.txt"
+  },
+  {
+    "title": "יחזקאל פרק כד",
+    "txt_file_path": "app_data/prophets/ezekiel/24.txt"
+  },
+  {
+    "title": "יחזקאל פרק כה",
+    "txt_file_path": "app_data/prophets/ezekiel/25.txt"
+  },
+  {
+    "title": "יחזקאל פרק כו",
+    "txt_file_path": "app_data/prophets/ezekiel/26.txt"
+  },
+  {
+    "title": "יחזקאל פרק כז",
+    "txt_file_path": "app_data/prophets/ezekiel/27.txt"
+  },
+  {
+    "title": "יחזקאל פרק כח",
+    "txt_file_path": "app_data/prophets/ezekiel/28.txt"
+  },
+  {
+    "title": "יחזקאל פרק כט",
+    "txt_file_path": "app_data/prophets/ezekiel/29.txt"
+  },
+  {
+    "title": "יחזקאל פרק ל",
+    "txt_file_path": "app_data/prophets/ezekiel/30.txt"
+  },
+  {
+    "title": "יחזקאל פרק לא",
+    "txt_file_path": "app_data/prophets/ezekiel/31.txt"
+  },
+  {
+    "title": "יחזקאל פרק לב",
+    "txt_file_path": "app_data/prophets/ezekiel/32.txt"
+  },
+  {
+    "title": "יחזקאל פרק לג",
+    "txt_file_path": "app_data/prophets/ezekiel/33.txt"
+  },
+  {
+    "title": "יחזקאל פרק לד",
+    "txt_file_path": "app_data/prophets/ezekiel/34.txt"
+  },
+  {
+    "title": "יחזקאל פרק לה",
+    "txt_file_path": "app_data/prophets/ezekiel/35.txt"
+  },
+  {
+    "title": "יחזקאל פרק לו",
+    "txt_file_path": "app_data/prophets/ezekiel/36.txt"
+  },
+  {
+    "title": "יחזקאל פרק לז",
+    "txt_file_path": "app_data/prophets/ezekiel/37.txt"
+  },
+  {
+    "title": "יחזקאל פרק לח",
+    "txt_file_path": "app_data/prophets/ezekiel/38.txt"
+  },
+  {
+    "title": "יחזקאל פרק לט",
+    "txt_file_path": "app_data/prophets/ezekiel/39.txt"
+  },
+  {
+    "title": "יחזקאל פרק מ",
+    "txt_file_path": "app_data/prophets/ezekiel/40.txt"
+  },
+  {
+    "title": "יחזקאל פרק מא",
+    "txt_file_path": "app_data/prophets/ezekiel/41.txt"
+  },
+  {
+    "title": "יחזקאל פרק מב",
+    "txt_file_path": "app_data/prophets/ezekiel/42.txt"
+  },
+  {
+    "title": "יחזקאל פרק מג",
+    "txt_file_path": "app_data/prophets/ezekiel/43.txt"
+  },
+  {
+    "title": "יחזקאל פרק מד",
+    "txt_file_path": "app_data/prophets/ezekiel/44.txt"
+  },
+  {
+    "title": "יחזקאל פרק מה",
+    "txt_file_path": "app_data/prophets/ezekiel/45.txt"
+  },
+  {
+    "title": "יחזקאל פרק מו",
+    "txt_file_path": "app_data/prophets/ezekiel/46.txt"
+  },
+  {
+    "title": "יחזקאל פרק מז",
+    "txt_file_path": "app_data/prophets/ezekiel/47.txt"
+  },
+  {
+    "title": "יחזקאל פרק מח",
+    "txt_file_path": "app_data/prophets/ezekiel/48.txt"
+  },
+  {
+    "title": "הושע פרק א",
+    "txt_file_path": "app_data/prophets/hosea/1.txt"
+  },
+  {
+    "title": "הושע פרק ב",
+    "txt_file_path": "app_data/prophets/hosea/2.txt"
+  },
+  {
+    "title": "הושע פרק ג",
+    "txt_file_path": "app_data/prophets/hosea/3.txt"
+  },
+  {
+    "title": "הושע פרק ד",
+    "txt_file_path": "app_data/prophets/hosea/4.txt"
+  },
+  {
+    "title": "הושע פרק ה",
+    "txt_file_path": "app_data/prophets/hosea/5.txt"
+  },
+  {
+    "title": "הושע פרק ו",
+    "txt_file_path": "app_data/prophets/hosea/6.txt"
+  },
+  {
+    "title": "הושע פרק ז",
+    "txt_file_path": "app_data/prophets/hosea/7.txt"
+  },
+  {
+    "title": "הושע פרק ח",
+    "txt_file_path": "app_data/prophets/hosea/8.txt"
+  },
+  {
+    "title": "הושע פרק ט",
+    "txt_file_path": "app_data/prophets/hosea/9.txt"
+  },
+  {
+    "title": "הושע פרק י",
+    "txt_file_path": "app_data/prophets/hosea/10.txt"
+  },
+  {
+    "title": "הושע פרק יא",
+    "txt_file_path": "app_data/prophets/hosea/11.txt"
+  },
+  {
+    "title": "הושע פרק יב",
+    "txt_file_path": "app_data/prophets/hosea/12.txt"
+  },
+  {
+    "title": "הושע פרק יג",
+    "txt_file_path": "app_data/prophets/hosea/13.txt"
+  },
+  {
+    "title": "הושע פרק יד",
+    "txt_file_path": "app_data/prophets/hosea/14.txt"
+  },
+  {
+    "title": "יואל פרק א",
+    "txt_file_path": "app_data/prophets/joel/1.txt"
+  },
+  {
+    "title": "יואל פרק ב",
+    "txt_file_path": "app_data/prophets/joel/2.txt"
+  },
+  {
+    "title": "יואל פרק ג",
+    "txt_file_path": "app_data/prophets/joel/3.txt"
+  },
+  {
+    "title": "יואל פרק ד",
+    "txt_file_path": "app_data/prophets/joel/4.txt"
+  },
+  {
+    "title": "עמוס פרק א",
+    "txt_file_path": "app_data/prophets/amos/1.txt"
+  },
+  {
+    "title": "עמוס פרק ב",
+    "txt_file_path": "app_data/prophets/amos/2.txt"
+  },
+  {
+    "title": "עמוס פרק ג",
+    "txt_file_path": "app_data/prophets/amos/3.txt"
+  },
+  {
+    "title": "עמוס פרק ד",
+    "txt_file_path": "app_data/prophets/amos/4.txt"
+  },
+  {
+    "title": "עמוס פרק ה",
+    "txt_file_path": "app_data/prophets/amos/5.txt"
+  },
+  {
+    "title": "עמוס פרק ו",
+    "txt_file_path": "app_data/prophets/amos/6.txt"
+  },
+  {
+    "title": "עמוס פרק ז",
+    "txt_file_path": "app_data/prophets/amos/7.txt"
+  },
+  {
+    "title": "עמוס פרק ח",
+    "txt_file_path": "app_data/prophets/amos/8.txt"
+  },
+  {
+    "title": "עמוס פרק ט",
+    "txt_file_path": "app_data/prophets/amos/9.txt"
+  },
+  {
+    "title": "עובדיה פרק א",
+    "txt_file_path": "app_data/prophets/obadiah/1.txt"
+  },
+  {
+    "title": "יונה פרק א",
+    "txt_file_path": "app_data/prophets/jonah/1.txt"
+  },
+  {
+    "title": "יונה פרק ב",
+    "txt_file_path": "app_data/prophets/jonah/2.txt"
+  },
+  {
+    "title": "יונה פרק ג",
+    "txt_file_path": "app_data/prophets/jonah/3.txt"
+  },
+  {
+    "title": "יונה פרק ד",
+    "txt_file_path": "app_data/prophets/jonah/4.txt"
+  },
+  {
+    "title": "מיכה פרק א",
+    "txt_file_path": "app_data/prophets/micah/1.txt"
+  },
+  {
+    "title": "מיכה פרק ב",
+    "txt_file_path": "app_data/prophets/micah/2.txt"
+  },
+  {
+    "title": "מיכה פרק ג",
+    "txt_file_path": "app_data/prophets/micah/3.txt"
+  },
+  {
+    "title": "מיכה פרק ד",
+    "txt_file_path": "app_data/prophets/micah/4.txt"
+  },
+  {
+    "title": "מיכה פרק ה",
+    "txt_file_path": "app_data/prophets/micah/5.txt"
+  },
+  {
+    "title": "מיכה פרק ו",
+    "txt_file_path": "app_data/prophets/micah/6.txt"
+  },
+  {
+    "title": "מיכה פרק ז",
+    "txt_file_path": "app_data/prophets/micah/7.txt"
+  },
+  {
+    "title": "נחום פרק א",
+    "txt_file_path": "app_data/prophets/nahum/1.txt"
+  },
+  {
+    "title": "נחום פרק ב",
+    "txt_file_path": "app_data/prophets/nahum/2.txt"
+  },
+  {
+    "title": "נחום פרק ג",
+    "txt_file_path": "app_data/prophets/nahum/3.txt"
+  },
+  {
+    "title": "חבקוק פרק א",
+    "txt_file_path": "app_data/prophets/habakkuk/1.txt"
+  },
+  {
+    "title": "חבקוק פרק ב",
+    "txt_file_path": "app_data/prophets/habakkuk/2.txt"
+  },
+  {
+    "title": "חבקוק פרק ג",
+    "txt_file_path": "app_data/prophets/habakkuk/3.txt"
+  },
+  {
+    "title": "צפניה פרק א",
+    "txt_file_path": "app_data/prophets/zephaniah/1.txt"
+  },
+  {
+    "title": "צפניה פרק ב",
+    "txt_file_path": "app_data/prophets/zephaniah/2.txt"
+  },
+  {
+    "title": "צפניה פרק ג",
+    "txt_file_path": "app_data/prophets/zephaniah/3.txt"
+  },
+  {
+    "title": "חגי פרק א",
+    "txt_file_path": "app_data/prophets/haggai/1.txt"
+  },
+  {
+    "title": "חגי פרק ב",
+    "txt_file_path": "app_data/prophets/haggai/2.txt"
+  },
+  {
+    "title": "זכריה פרק א",
+    "txt_file_path": "app_data/prophets/zechariah/1.txt"
+  },
+  {
+    "title": "זכריה פרק ב",
+    "txt_file_path": "app_data/prophets/zechariah/2.txt"
+  },
+  {
+    "title": "זכריה פרק ג",
+    "txt_file_path": "app_data/prophets/zechariah/3.txt"
+  },
+  {
+    "title": "זכריה פרק ד",
+    "txt_file_path": "app_data/prophets/zechariah/4.txt"
+  },
+  {
+    "title": "זכריה פרק ה",
+    "txt_file_path": "app_data/prophets/zechariah/5.txt"
+  },
+  {
+    "title": "זכריה פרק ו",
+    "txt_file_path": "app_data/prophets/zechariah/6.txt"
+  },
+  {
+    "title": "זכריה פרק ז",
+    "txt_file_path": "app_data/prophets/zechariah/7.txt"
+  },
+  {
+    "title": "זכריה פרק ח",
+    "txt_file_path": "app_data/prophets/zechariah/8.txt"
+  },
+  {
+    "title": "זכריה פרק ט",
+    "txt_file_path": "app_data/prophets/zechariah/9.txt"
+  },
+  {
+    "title": "זכריה פרק י",
+    "txt_file_path": "app_data/prophets/zechariah/10.txt"
+  },
+  {
+    "title": "זכריה פרק יא",
+    "txt_file_path": "app_data/prophets/zechariah/11.txt"
+  },
+  {
+    "title": "זכריה פרק יב",
+    "txt_file_path": "app_data/prophets/zechariah/12.txt"
+  },
+  {
+    "title": "זכריה פרק יג",
+    "txt_file_path": "app_data/prophets/zechariah/13.txt"
+  },
+  {
+    "title": "זכריה פרק יד",
+    "txt_file_path": "app_data/prophets/zechariah/14.txt"
+  },
+  {
+    "title": "מלאכי פרק א",
+    "txt_file_path": "app_data/prophets/malachi/1.txt"
+  },
+  {
+    "title": "מלאכי פרק ב",
+    "txt_file_path": "app_data/prophets/malachi/2.txt"
+  },
+  {
+    "title": "מלאכי פרק ג",
+    "txt_file_path": "app_data/prophets/malachi/3.txt"
+  },
+  {
+    "title": "תהילים פרק א",
+    "txt_file_path": "app_data/writings/psalms/1.txt"
+  },
+  {
+    "title": "תהילים פרק ב",
+    "txt_file_path": "app_data/writings/psalms/2.txt"
+  },
+  {
+    "title": "תהילים פרק ג",
+    "txt_file_path": "app_data/writings/psalms/3.txt"
+  },
+  {
+    "title": "תהילים פרק ד",
+    "txt_file_path": "app_data/writings/psalms/4.txt"
+  },
+  {
+    "title": "תהילים פרק ה",
+    "txt_file_path": "app_data/writings/psalms/5.txt"
+  },
+  {
+    "title": "תהילים פרק ו",
+    "txt_file_path": "app_data/writings/psalms/6.txt"
+  },
+  {
+    "title": "תהילים פרק ז",
+    "txt_file_path": "app_data/writings/psalms/7.txt"
+  },
+  {
+    "title": "תהילים פרק ח",
+    "txt_file_path": "app_data/writings/psalms/8.txt"
+  },
+  {
+    "title": "תהילים פרק ט",
+    "txt_file_path": "app_data/writings/psalms/9.txt"
+  },
+  {
+    "title": "תהילים פרק י",
+    "txt_file_path": "app_data/writings/psalms/10.txt"
+  },
+  {
+    "title": "תהילים פרק יא",
+    "txt_file_path": "app_data/writings/psalms/11.txt"
+  },
+  {
+    "title": "תהילים פרק יב",
+    "txt_file_path": "app_data/writings/psalms/12.txt"
+  },
+  {
+    "title": "תהילים פרק יג",
+    "txt_file_path": "app_data/writings/psalms/13.txt"
+  },
+  {
+    "title": "תהילים פרק יד",
+    "txt_file_path": "app_data/writings/psalms/14.txt"
+  },
+  {
+    "title": "תהילים פרק טו",
+    "txt_file_path": "app_data/writings/psalms/15.txt"
+  },
+  {
+    "title": "תהילים פרק טז",
+    "txt_file_path": "app_data/writings/psalms/16.txt"
+  },
+  {
+    "title": "תהילים פרק יז",
+    "txt_file_path": "app_data/writings/psalms/17.txt"
+  },
+  {
+    "title": "תהילים פרק יח",
+    "txt_file_path": "app_data/writings/psalms/18.txt"
+  },
+  {
+    "title": "תהילים פרק יט",
+    "txt_file_path": "app_data/writings/psalms/19.txt"
+  },
+  {
+    "title": "תהילים פרק כ",
+    "txt_file_path": "app_data/writings/psalms/20.txt"
+  },
+  {
+    "title": "תהילים פרק כא",
+    "txt_file_path": "app_data/writings/psalms/21.txt"
+  },
+  {
+    "title": "תהילים פרק כב",
+    "txt_file_path": "app_data/writings/psalms/22.txt"
+  },
+  {
+    "title": "תהילים פרק כג",
+    "txt_file_path": "app_data/writings/psalms/23.txt"
+  },
+  {
+    "title": "תהילים פרק כד",
+    "txt_file_path": "app_data/writings/psalms/24.txt"
+  },
+  {
+    "title": "תהילים פרק כה",
+    "txt_file_path": "app_data/writings/psalms/25.txt"
+  },
+  {
+    "title": "תהילים פרק כו",
+    "txt_file_path": "app_data/writings/psalms/26.txt"
+  },
+  {
+    "title": "תהילים פרק כז",
+    "txt_file_path": "app_data/writings/psalms/27.txt"
+  },
+  {
+    "title": "תהילים פרק כח",
+    "txt_file_path": "app_data/writings/psalms/28.txt"
+  },
+  {
+    "title": "תהילים פרק כט",
+    "txt_file_path": "app_data/writings/psalms/29.txt"
+  },
+  {
+    "title": "תהילים פרק ל",
+    "txt_file_path": "app_data/writings/psalms/30.txt"
+  },
+  {
+    "title": "תהילים פרק לא",
+    "txt_file_path": "app_data/writings/psalms/31.txt"
+  },
+  {
+    "title": "תהילים פרק לב",
+    "txt_file_path": "app_data/writings/psalms/32.txt"
+  },
+  {
+    "title": "תהילים פרק לג",
+    "txt_file_path": "app_data/writings/psalms/33.txt"
+  },
+  {
+    "title": "תהילים פרק לד",
+    "txt_file_path": "app_data/writings/psalms/34.txt"
+  },
+  {
+    "title": "תהילים פרק לה",
+    "txt_file_path": "app_data/writings/psalms/35.txt"
+  },
+  {
+    "title": "תהילים פרק לו",
+    "txt_file_path": "app_data/writings/psalms/36.txt"
+  },
+  {
+    "title": "תהילים פרק לז",
+    "txt_file_path": "app_data/writings/psalms/37.txt"
+  },
+  {
+    "title": "תהילים פרק לח",
+    "txt_file_path": "app_data/writings/psalms/38.txt"
+  },
+  {
+    "title": "תהילים פרק לט",
+    "txt_file_path": "app_data/writings/psalms/39.txt"
+  },
+  {
+    "title": "תהילים פרק מ",
+    "txt_file_path": "app_data/writings/psalms/40.txt"
+  },
+  {
+    "title": "תהילים פרק מא",
+    "txt_file_path": "app_data/writings/psalms/41.txt"
+  },
+  {
+    "title": "תהילים פרק מב",
+    "txt_file_path": "app_data/writings/psalms/42.txt"
+  },
+  {
+    "title": "תהילים פרק מג",
+    "txt_file_path": "app_data/writings/psalms/43.txt"
+  },
+  {
+    "title": "תהילים פרק מד",
+    "txt_file_path": "app_data/writings/psalms/44.txt"
+  },
+  {
+    "title": "תהילים פרק מה",
+    "txt_file_path": "app_data/writings/psalms/45.txt"
+  },
+  {
+    "title": "תהילים פרק מו",
+    "txt_file_path": "app_data/writings/psalms/46.txt"
+  },
+  {
+    "title": "תהילים פרק מז",
+    "txt_file_path": "app_data/writings/psalms/47.txt"
+  },
+  {
+    "title": "תהילים פרק מח",
+    "txt_file_path": "app_data/writings/psalms/48.txt"
+  },
+  {
+    "title": "תהילים פרק מט",
+    "txt_file_path": "app_data/writings/psalms/49.txt"
+  },
+  {
+    "title": "תהילים פרק נ",
+    "txt_file_path": "app_data/writings/psalms/50.txt"
+  },
+  {
+    "title": "תהילים פרק נא",
+    "txt_file_path": "app_data/writings/psalms/51.txt"
+  },
+  {
+    "title": "תהילים פרק נב",
+    "txt_file_path": "app_data/writings/psalms/52.txt"
+  },
+  {
+    "title": "תהילים פרק נג",
+    "txt_file_path": "app_data/writings/psalms/53.txt"
+  },
+  {
+    "title": "תהילים פרק נד",
+    "txt_file_path": "app_data/writings/psalms/54.txt"
+  },
+  {
+    "title": "תהילים פרק נה",
+    "txt_file_path": "app_data/writings/psalms/55.txt"
+  },
+  {
+    "title": "תהילים פרק נו",
+    "txt_file_path": "app_data/writings/psalms/56.txt"
+  },
+  {
+    "title": "תהילים פרק נז",
+    "txt_file_path": "app_data/writings/psalms/57.txt"
+  },
+  {
+    "title": "תהילים פרק נח",
+    "txt_file_path": "app_data/writings/psalms/58.txt"
+  },
+  {
+    "title": "תהילים פרק נט",
+    "txt_file_path": "app_data/writings/psalms/59.txt"
+  },
+  {
+    "title": "תהילים פרק ס",
+    "txt_file_path": "app_data/writings/psalms/60.txt"
+  },
+  {
+    "title": "תהילים פרק סא",
+    "txt_file_path": "app_data/writings/psalms/61.txt"
+  },
+  {
+    "title": "תהילים פרק סב",
+    "txt_file_path": "app_data/writings/psalms/62.txt"
+  },
+  {
+    "title": "תהילים פרק סג",
+    "txt_file_path": "app_data/writings/psalms/63.txt"
+  },
+  {
+    "title": "תהילים פרק סד",
+    "txt_file_path": "app_data/writings/psalms/64.txt"
+  },
+  {
+    "title": "תהילים פרק סה",
+    "txt_file_path": "app_data/writings/psalms/65.txt"
+  },
+  {
+    "title": "תהילים פרק סו",
+    "txt_file_path": "app_data/writings/psalms/66.txt"
+  },
+  {
+    "title": "תהילים פרק סז",
+    "txt_file_path": "app_data/writings/psalms/67.txt"
+  },
+  {
+    "title": "תהילים פרק סח",
+    "txt_file_path": "app_data/writings/psalms/68.txt"
+  },
+  {
+    "title": "תהילים פרק סט",
+    "txt_file_path": "app_data/writings/psalms/69.txt"
+  },
+  {
+    "title": "תהילים פרק ע",
+    "txt_file_path": "app_data/writings/psalms/70.txt"
+  },
+  {
+    "title": "תהילים פרק עא",
+    "txt_file_path": "app_data/writings/psalms/71.txt"
+  },
+  {
+    "title": "תהילים פרק עב",
+    "txt_file_path": "app_data/writings/psalms/72.txt"
+  },
+  {
+    "title": "תהילים פרק עג",
+    "txt_file_path": "app_data/writings/psalms/73.txt"
+  },
+  {
+    "title": "תהילים פרק עד",
+    "txt_file_path": "app_data/writings/psalms/74.txt"
+  },
+  {
+    "title": "תהילים פרק עה",
+    "txt_file_path": "app_data/writings/psalms/75.txt"
+  },
+  {
+    "title": "תהילים פרק עו",
+    "txt_file_path": "app_data/writings/psalms/76.txt"
+  },
+  {
+    "title": "תהילים פרק עז",
+    "txt_file_path": "app_data/writings/psalms/77.txt"
+  },
+  {
+    "title": "תהילים פרק עח",
+    "txt_file_path": "app_data/writings/psalms/78.txt"
+  },
+  {
+    "title": "תהילים פרק עט",
+    "txt_file_path": "app_data/writings/psalms/79.txt"
+  },
+  {
+    "title": "תהילים פרק פ",
+    "txt_file_path": "app_data/writings/psalms/80.txt"
+  },
+  {
+    "title": "תהילים פרק פא",
+    "txt_file_path": "app_data/writings/psalms/81.txt"
+  },
+  {
+    "title": "תהילים פרק פב",
+    "txt_file_path": "app_data/writings/psalms/82.txt"
+  },
+  {
+    "title": "תהילים פרק פג",
+    "txt_file_path": "app_data/writings/psalms/83.txt"
+  },
+  {
+    "title": "תהילים פרק פד",
+    "txt_file_path": "app_data/writings/psalms/84.txt"
+  },
+  {
+    "title": "תהילים פרק פה",
+    "txt_file_path": "app_data/writings/psalms/85.txt"
+  },
+  {
+    "title": "תהילים פרק פו",
+    "txt_file_path": "app_data/writings/psalms/86.txt"
+  },
+  {
+    "title": "תהילים פרק פז",
+    "txt_file_path": "app_data/writings/psalms/87.txt"
+  },
+  {
+    "title": "תהילים פרק פח",
+    "txt_file_path": "app_data/writings/psalms/88.txt"
+  },
+  {
+    "title": "תהילים פרק פט",
+    "txt_file_path": "app_data/writings/psalms/89.txt"
+  },
+  {
+    "title": "תהילים פרק צ",
+    "txt_file_path": "app_data/writings/psalms/90.txt"
+  },
+  {
+    "title": "תהילים פרק צא",
+    "txt_file_path": "app_data/writings/psalms/91.txt"
+  },
+  {
+    "title": "תהילים פרק צב",
+    "txt_file_path": "app_data/writings/psalms/92.txt"
+  },
+  {
+    "title": "תהילים פרק צג",
+    "txt_file_path": "app_data/writings/psalms/93.txt"
+  },
+  {
+    "title": "תהילים פרק צד",
+    "txt_file_path": "app_data/writings/psalms/94.txt"
+  },
+  {
+    "title": "תהילים פרק צה",
+    "txt_file_path": "app_data/writings/psalms/95.txt"
+  },
+  {
+    "title": "תהילים פרק צו",
+    "txt_file_path": "app_data/writings/psalms/96.txt"
+  },
+  {
+    "title": "תהילים פרק צז",
+    "txt_file_path": "app_data/writings/psalms/97.txt"
+  },
+  {
+    "title": "תהילים פרק צח",
+    "txt_file_path": "app_data/writings/psalms/98.txt"
+  },
+  {
+    "title": "תהילים פרק צט",
+    "txt_file_path": "app_data/writings/psalms/99.txt"
+  },
+  {
+    "title": "תהילים פרק ק",
+    "txt_file_path": "app_data/writings/psalms/100.txt"
+  },
+  {
+    "title": "תהילים פרק קא",
+    "txt_file_path": "app_data/writings/psalms/101.txt"
+  },
+  {
+    "title": "תהילים פרק קב",
+    "txt_file_path": "app_data/writings/psalms/102.txt"
+  },
+  {
+    "title": "תהילים פרק קג",
+    "txt_file_path": "app_data/writings/psalms/103.txt"
+  },
+  {
+    "title": "תהילים פרק קד",
+    "txt_file_path": "app_data/writings/psalms/104.txt"
+  },
+  {
+    "title": "תהילים פרק קה",
+    "txt_file_path": "app_data/writings/psalms/105.txt"
+  },
+  {
+    "title": "תהילים פרק קו",
+    "txt_file_path": "app_data/writings/psalms/106.txt"
+  },
+  {
+    "title": "תהילים פרק קז",
+    "txt_file_path": "app_data/writings/psalms/107.txt"
+  },
+  {
+    "title": "תהילים פרק קח",
+    "txt_file_path": "app_data/writings/psalms/108.txt"
+  },
+  {
+    "title": "תהילים פרק קט",
+    "txt_file_path": "app_data/writings/psalms/109.txt"
+  },
+  {
+    "title": "תהילים פרק קי",
+    "txt_file_path": "app_data/writings/psalms/110.txt"
+  },
+  {
+    "title": "תהילים פרק קיא",
+    "txt_file_path": "app_data/writings/psalms/111.txt"
+  },
+  {
+    "title": "תהילים פרק קיב",
+    "txt_file_path": "app_data/writings/psalms/112.txt"
+  },
+  {
+    "title": "תהילים פרק קיג",
+    "txt_file_path": "app_data/writings/psalms/113.txt"
+  },
+  {
+    "title": "תהילים פרק קיד",
+    "txt_file_path": "app_data/writings/psalms/114.txt"
+  },
+  {
+    "title": "תהילים פרק קטו",
+    "txt_file_path": "app_data/writings/psalms/115.txt"
+  },
+  {
+    "title": "תהילים פרק קטז",
+    "txt_file_path": "app_data/writings/psalms/116.txt"
+  },
+  {
+    "title": "תהילים פרק קיז",
+    "txt_file_path": "app_data/writings/psalms/117.txt"
+  },
+  {
+    "title": "תהילים פרק קיח",
+    "txt_file_path": "app_data/writings/psalms/118.txt"
+  },
+  {
+    "title": "תהילים פרק קיט",
+    "txt_file_path": "app_data/writings/psalms/119.txt"
+  },
+  {
+    "title": "תהילים פרק קכ",
+    "txt_file_path": "app_data/writings/psalms/120.txt"
+  },
+  {
+    "title": "תהילים פרק קכא",
+    "txt_file_path": "app_data/writings/psalms/121.txt"
+  },
+  {
+    "title": "תהילים פרק קכב",
+    "txt_file_path": "app_data/writings/psalms/122.txt"
+  },
+  {
+    "title": "תהילים פרק קכג",
+    "txt_file_path": "app_data/writings/psalms/123.txt"
+  },
+  {
+    "title": "תהילים פרק קכד",
+    "txt_file_path": "app_data/writings/psalms/124.txt"
+  },
+  {
+    "title": "תהילים פרק קכה",
+    "txt_file_path": "app_data/writings/psalms/125.txt"
+  },
+  {
+    "title": "תהילים פרק קכו",
+    "txt_file_path": "app_data/writings/psalms/126.txt"
+  },
+  {
+    "title": "תהילים פרק קכז",
+    "txt_file_path": "app_data/writings/psalms/127.txt"
+  },
+  {
+    "title": "תהילים פרק קכח",
+    "txt_file_path": "app_data/writings/psalms/128.txt"
+  },
+  {
+    "title": "תהילים פרק קכט",
+    "txt_file_path": "app_data/writings/psalms/129.txt"
+  },
+  {
+    "title": "תהילים פרק קל",
+    "txt_file_path": "app_data/writings/psalms/130.txt"
+  },
+  {
+    "title": "תהילים פרק קלא",
+    "txt_file_path": "app_data/writings/psalms/131.txt"
+  },
+  {
+    "title": "תהילים פרק קלב",
+    "txt_file_path": "app_data/writings/psalms/132.txt"
+  },
+  {
+    "title": "תהילים פרק קלג",
+    "txt_file_path": "app_data/writings/psalms/133.txt"
+  },
+  {
+    "title": "תהילים פרק קלד",
+    "txt_file_path": "app_data/writings/psalms/134.txt"
+  },
+  {
+    "title": "תהילים פרק קלה",
+    "txt_file_path": "app_data/writings/psalms/135.txt"
+  },
+  {
+    "title": "תהילים פרק קלו",
+    "txt_file_path": "app_data/writings/psalms/136.txt"
+  },
+  {
+    "title": "תהילים פרק קלז",
+    "txt_file_path": "app_data/writings/psalms/137.txt"
+  },
+  {
+    "title": "תהילים פרק קלח",
+    "txt_file_path": "app_data/writings/psalms/138.txt"
+  },
+  {
+    "title": "תהילים פרק קלט",
+    "txt_file_path": "app_data/writings/psalms/139.txt"
+  },
+  {
+    "title": "תהילים פרק קמ",
+    "txt_file_path": "app_data/writings/psalms/140.txt"
+  },
+  {
+    "title": "תהילים פרק קמא",
+    "txt_file_path": "app_data/writings/psalms/141.txt"
+  },
+  {
+    "title": "תהילים פרק קמב",
+    "txt_file_path": "app_data/writings/psalms/142.txt"
+  },
+  {
+    "title": "תהילים פרק קמג",
+    "txt_file_path": "app_data/writings/psalms/143.txt"
+  },
+  {
+    "title": "תהילים פרק קמד",
+    "txt_file_path": "app_data/writings/psalms/144.txt"
+  },
+  {
+    "title": "תהילים פרק קמה",
+    "txt_file_path": "app_data/writings/psalms/145.txt"
+  },
+  {
+    "title": "תהילים פרק קמו",
+    "txt_file_path": "app_data/writings/psalms/146.txt"
+  },
+  {
+    "title": "תהילים פרק קמז",
+    "txt_file_path": "app_data/writings/psalms/147.txt"
+  },
+  {
+    "title": "תהילים פרק קמח",
+    "txt_file_path": "app_data/writings/psalms/148.txt"
+  },
+  {
+    "title": "תהילים פרק קמט",
+    "txt_file_path": "app_data/writings/psalms/149.txt"
+  },
+  {
+    "title": "תהילים פרק קנ",
+    "txt_file_path": "app_data/writings/psalms/150.txt"
+  },
+  {
+    "title": "משלי פרק א",
+    "txt_file_path": "app_data/writings/proverbs/1.txt"
+  },
+  {
+    "title": "משלי פרק ב",
+    "txt_file_path": "app_data/writings/proverbs/2.txt"
+  },
+  {
+    "title": "משלי פרק ג",
+    "txt_file_path": "app_data/writings/proverbs/3.txt"
+  },
+  {
+    "title": "משלי פרק ד",
+    "txt_file_path": "app_data/writings/proverbs/4.txt"
+  },
+  {
+    "title": "משלי פרק ה",
+    "txt_file_path": "app_data/writings/proverbs/5.txt"
+  },
+  {
+    "title": "משלי פרק ו",
+    "txt_file_path": "app_data/writings/proverbs/6.txt"
+  },
+  {
+    "title": "משלי פרק ז",
+    "txt_file_path": "app_data/writings/proverbs/7.txt"
+  },
+  {
+    "title": "משלי פרק ח",
+    "txt_file_path": "app_data/writings/proverbs/8.txt"
+  },
+  {
+    "title": "משלי פרק ט",
+    "txt_file_path": "app_data/writings/proverbs/9.txt"
+  },
+  {
+    "title": "משלי פרק י",
+    "txt_file_path": "app_data/writings/proverbs/10.txt"
+  },
+  {
+    "title": "משלי פרק יא",
+    "txt_file_path": "app_data/writings/proverbs/11.txt"
+  },
+  {
+    "title": "משלי פרק יב",
+    "txt_file_path": "app_data/writings/proverbs/12.txt"
+  },
+  {
+    "title": "משלי פרק יג",
+    "txt_file_path": "app_data/writings/proverbs/13.txt"
+  },
+  {
+    "title": "משלי פרק יד",
+    "txt_file_path": "app_data/writings/proverbs/14.txt"
+  },
+  {
+    "title": "משלי פרק טו",
+    "txt_file_path": "app_data/writings/proverbs/15.txt"
+  },
+  {
+    "title": "משלי פרק טז",
+    "txt_file_path": "app_data/writings/proverbs/16.txt"
+  },
+  {
+    "title": "משלי פרק יז",
+    "txt_file_path": "app_data/writings/proverbs/17.txt"
+  },
+  {
+    "title": "משלי פרק יח",
+    "txt_file_path": "app_data/writings/proverbs/18.txt"
+  },
+  {
+    "title": "משלי פרק יט",
+    "txt_file_path": "app_data/writings/proverbs/19.txt"
+  },
+  {
+    "title": "משלי פרק כ",
+    "txt_file_path": "app_data/writings/proverbs/20.txt"
+  },
+  {
+    "title": "משלי פרק כא",
+    "txt_file_path": "app_data/writings/proverbs/21.txt"
+  },
+  {
+    "title": "משלי פרק כב",
+    "txt_file_path": "app_data/writings/proverbs/22.txt"
+  },
+  {
+    "title": "משלי פרק כג",
+    "txt_file_path": "app_data/writings/proverbs/23.txt"
+  },
+  {
+    "title": "משלי פרק כד",
+    "txt_file_path": "app_data/writings/proverbs/24.txt"
+  },
+  {
+    "title": "משלי פרק כה",
+    "txt_file_path": "app_data/writings/proverbs/25.txt"
+  },
+  {
+    "title": "משלי פרק כו",
+    "txt_file_path": "app_data/writings/proverbs/26.txt"
+  },
+  {
+    "title": "משלי פרק כז",
+    "txt_file_path": "app_data/writings/proverbs/27.txt"
+  },
+  {
+    "title": "משלי פרק כח",
+    "txt_file_path": "app_data/writings/proverbs/28.txt"
+  },
+  {
+    "title": "משלי פרק כט",
+    "txt_file_path": "app_data/writings/proverbs/29.txt"
+  },
+  {
+    "title": "משלי פרק ל",
+    "txt_file_path": "app_data/writings/proverbs/30.txt"
+  },
+  {
+    "title": "משלי פרק לא",
+    "txt_file_path": "app_data/writings/proverbs/31.txt"
+  },
+  {
+    "title": "איוב פרק א",
+    "txt_file_path": "app_data/writings/job/1.txt"
+  },
+  {
+    "title": "איוב פרק ב",
+    "txt_file_path": "app_data/writings/job/2.txt"
+  },
+  {
+    "title": "איוב פרק ג",
+    "txt_file_path": "app_data/writings/job/3.txt"
+  },
+  {
+    "title": "איוב פרק ד",
+    "txt_file_path": "app_data/writings/job/4.txt"
+  },
+  {
+    "title": "איוב פרק ה",
+    "txt_file_path": "app_data/writings/job/5.txt"
+  },
+  {
+    "title": "איוב פרק ו",
+    "txt_file_path": "app_data/writings/job/6.txt"
+  },
+  {
+    "title": "איוב פרק ז",
+    "txt_file_path": "app_data/writings/job/7.txt"
+  },
+  {
+    "title": "איוב פרק ח",
+    "txt_file_path": "app_data/writings/job/8.txt"
+  },
+  {
+    "title": "איוב פרק ט",
+    "txt_file_path": "app_data/writings/job/9.txt"
+  },
+  {
+    "title": "איוב פרק י",
+    "txt_file_path": "app_data/writings/job/10.txt"
+  },
+  {
+    "title": "איוב פרק יא",
+    "txt_file_path": "app_data/writings/job/11.txt"
+  },
+  {
+    "title": "איוב פרק יב",
+    "txt_file_path": "app_data/writings/job/12.txt"
+  },
+  {
+    "title": "איוב פרק יג",
+    "txt_file_path": "app_data/writings/job/13.txt"
+  },
+  {
+    "title": "איוב פרק יד",
+    "txt_file_path": "app_data/writings/job/14.txt"
+  },
+  {
+    "title": "איוב פרק טו",
+    "txt_file_path": "app_data/writings/job/15.txt"
+  },
+  {
+    "title": "איוב פרק טז",
+    "txt_file_path": "app_data/writings/job/16.txt"
+  },
+  {
+    "title": "איוב פרק יז",
+    "txt_file_path": "app_data/writings/job/17.txt"
+  },
+  {
+    "title": "איוב פרק יח",
+    "txt_file_path": "app_data/writings/job/18.txt"
+  },
+  {
+    "title": "איוב פרק יט",
+    "txt_file_path": "app_data/writings/job/19.txt"
+  },
+  {
+    "title": "איוב פרק כ",
+    "txt_file_path": "app_data/writings/job/20.txt"
+  },
+  {
+    "title": "איוב פרק כא",
+    "txt_file_path": "app_data/writings/job/21.txt"
+  },
+  {
+    "title": "איוב פרק כב",
+    "txt_file_path": "app_data/writings/job/22.txt"
+  },
+  {
+    "title": "איוב פרק כג",
+    "txt_file_path": "app_data/writings/job/23.txt"
+  },
+  {
+    "title": "איוב פרק כד",
+    "txt_file_path": "app_data/writings/job/24.txt"
+  },
+  {
+    "title": "איוב פרק כה",
+    "txt_file_path": "app_data/writings/job/25.txt"
+  },
+  {
+    "title": "איוב פרק כו",
+    "txt_file_path": "app_data/writings/job/26.txt"
+  },
+  {
+    "title": "איוב פרק כז",
+    "txt_file_path": "app_data/writings/job/27.txt"
+  },
+  {
+    "title": "איוב פרק כח",
+    "txt_file_path": "app_data/writings/job/28.txt"
+  },
+  {
+    "title": "איוב פרק כט",
+    "txt_file_path": "app_data/writings/job/29.txt"
+  },
+  {
+    "title": "איוב פרק ל",
+    "txt_file_path": "app_data/writings/job/30.txt"
+  },
+  {
+    "title": "איוב פרק לא",
+    "txt_file_path": "app_data/writings/job/31.txt"
+  },
+  {
+    "title": "איוב פרק לב",
+    "txt_file_path": "app_data/writings/job/32.txt"
+  },
+  {
+    "title": "איוב פרק לג",
+    "txt_file_path": "app_data/writings/job/33.txt"
+  },
+  {
+    "title": "איוב פרק לד",
+    "txt_file_path": "app_data/writings/job/34.txt"
+  },
+  {
+    "title": "איוב פרק לה",
+    "txt_file_path": "app_data/writings/job/35.txt"
+  },
+  {
+    "title": "איוב פרק לו",
+    "txt_file_path": "app_data/writings/job/36.txt"
+  },
+  {
+    "title": "איוב פרק לז",
+    "txt_file_path": "app_data/writings/job/37.txt"
+  },
+  {
+    "title": "איוב פרק לח",
+    "txt_file_path": "app_data/writings/job/38.txt"
+  },
+  {
+    "title": "איוב פרק לט",
+    "txt_file_path": "app_data/writings/job/39.txt"
+  },
+  {
+    "title": "איוב פרק מ",
+    "txt_file_path": "app_data/writings/job/40.txt"
+  },
+  {
+    "title": "איוב פרק מא",
+    "txt_file_path": "app_data/writings/job/41.txt"
+  },
+  {
+    "title": "איוב פרק מב",
+    "txt_file_path": "app_data/writings/job/42.txt"
+  },
+  {
+    "title": "שיר השירים פרק א",
+    "txt_file_path": "app_data/writings/song_of_songs/1.txt"
+  },
+  {
+    "title": "שיר השירים פרק ב",
+    "txt_file_path": "app_data/writings/song_of_songs/2.txt"
+  },
+  {
+    "title": "שיר השירים פרק ג",
+    "txt_file_path": "app_data/writings/song_of_songs/3.txt"
+  },
+  {
+    "title": "שיר השירים פרק ד",
+    "txt_file_path": "app_data/writings/song_of_songs/4.txt"
+  },
+  {
+    "title": "שיר השירים פרק ה",
+    "txt_file_path": "app_data/writings/song_of_songs/5.txt"
+  },
+  {
+    "title": "שיר השירים פרק ו",
+    "txt_file_path": "app_data/writings/song_of_songs/6.txt"
+  },
+  {
+    "title": "שיר השירים פרק ז",
+    "txt_file_path": "app_data/writings/song_of_songs/7.txt"
+  },
+  {
+    "title": "שיר השירים פרק ח",
+    "txt_file_path": "app_data/writings/song_of_songs/8.txt"
+  },
+  {
+    "title": "רות פרק א",
+    "txt_file_path": "app_data/writings/ruth/1.txt"
+  },
+  {
+    "title": "רות פרק ב",
+    "txt_file_path": "app_data/writings/ruth/2.txt"
+  },
+  {
+    "title": "רות פרק ג",
+    "txt_file_path": "app_data/writings/ruth/3.txt"
+  },
+  {
+    "title": "רות פרק ד",
+    "txt_file_path": "app_data/writings/ruth/4.txt"
+  },
+  {
+    "title": "איכה פרק א",
+    "txt_file_path": "app_data/writings/lamentations/1.txt"
+  },
+  {
+    "title": "איכה פרק ב",
+    "txt_file_path": "app_data/writings/lamentations/2.txt"
+  },
+  {
+    "title": "איכה פרק ג",
+    "txt_file_path": "app_data/writings/lamentations/3.txt"
+  },
+  {
+    "title": "איכה פרק ד",
+    "txt_file_path": "app_data/writings/lamentations/4.txt"
+  },
+  {
+    "title": "איכה פרק ה",
+    "txt_file_path": "app_data/writings/lamentations/5.txt"
+  },
+  {
+    "title": "קהלת פרק א",
+    "txt_file_path": "app_data/writings/ecclesiastes/1.txt"
+  },
+  {
+    "title": "קהלת פרק ב",
+    "txt_file_path": "app_data/writings/ecclesiastes/2.txt"
+  },
+  {
+    "title": "קהלת פרק ג",
+    "txt_file_path": "app_data/writings/ecclesiastes/3.txt"
+  },
+  {
+    "title": "קהלת פרק ד",
+    "txt_file_path": "app_data/writings/ecclesiastes/4.txt"
+  },
+  {
+    "title": "קהלת פרק ה",
+    "txt_file_path": "app_data/writings/ecclesiastes/5.txt"
+  },
+  {
+    "title": "קהלת פרק ו",
+    "txt_file_path": "app_data/writings/ecclesiastes/6.txt"
+  },
+  {
+    "title": "קהלת פרק ז",
+    "txt_file_path": "app_data/writings/ecclesiastes/7.txt"
+  },
+  {
+    "title": "קהלת פרק ח",
+    "txt_file_path": "app_data/writings/ecclesiastes/8.txt"
+  },
+  {
+    "title": "קהלת פרק ט",
+    "txt_file_path": "app_data/writings/ecclesiastes/9.txt"
+  },
+  {
+    "title": "קהלת פרק י",
+    "txt_file_path": "app_data/writings/ecclesiastes/10.txt"
+  },
+  {
+    "title": "קהלת פרק יא",
+    "txt_file_path": "app_data/writings/ecclesiastes/11.txt"
+  },
+  {
+    "title": "קהלת פרק יב",
+    "txt_file_path": "app_data/writings/ecclesiastes/12.txt"
+  },
+  {
+    "title": "אסתר פרק א",
+    "txt_file_path": "app_data/writings/esther/1.txt"
+  },
+  {
+    "title": "אסתר פרק ב",
+    "txt_file_path": "app_data/writings/esther/2.txt"
+  },
+  {
+    "title": "אסתר פרק ג",
+    "txt_file_path": "app_data/writings/esther/3.txt"
+  },
+  {
+    "title": "אסתר פרק ד",
+    "txt_file_path": "app_data/writings/esther/4.txt"
+  },
+  {
+    "title": "אסתר פרק ה",
+    "txt_file_path": "app_data/writings/esther/5.txt"
+  },
+  {
+    "title": "אסתר פרק ו",
+    "txt_file_path": "app_data/writings/esther/6.txt"
+  },
+  {
+    "title": "אסתר פרק ז",
+    "txt_file_path": "app_data/writings/esther/7.txt"
+  },
+  {
+    "title": "אסתר פרק ח",
+    "txt_file_path": "app_data/writings/esther/8.txt"
+  },
+  {
+    "title": "אסתר פרק ט",
+    "txt_file_path": "app_data/writings/esther/9.txt"
+  },
+  {
+    "title": "אסתר פרק י",
+    "txt_file_path": "app_data/writings/esther/10.txt"
+  },
+  {
+    "title": "דניאל פרק א",
+    "txt_file_path": "app_data/writings/daniel/1.txt"
+  },
+  {
+    "title": "דניאל פרק ב",
+    "txt_file_path": "app_data/writings/daniel/2.txt"
+  },
+  {
+    "title": "דניאל פרק ג",
+    "txt_file_path": "app_data/writings/daniel/3.txt"
+  },
+  {
+    "title": "דניאל פרק ד",
+    "txt_file_path": "app_data/writings/daniel/4.txt"
+  },
+  {
+    "title": "דניאל פרק ה",
+    "txt_file_path": "app_data/writings/daniel/5.txt"
+  },
+  {
+    "title": "דניאל פרק ו",
+    "txt_file_path": "app_data/writings/daniel/6.txt"
+  },
+  {
+    "title": "דניאל פרק ז",
+    "txt_file_path": "app_data/writings/daniel/7.txt"
+  },
+  {
+    "title": "דניאל פרק ח",
+    "txt_file_path": "app_data/writings/daniel/8.txt"
+  },
+  {
+    "title": "דניאל פרק ט",
+    "txt_file_path": "app_data/writings/daniel/9.txt"
+  },
+  {
+    "title": "דניאל פרק י",
+    "txt_file_path": "app_data/writings/daniel/10.txt"
+  },
+  {
+    "title": "דניאל פרק יא",
+    "txt_file_path": "app_data/writings/daniel/11.txt"
+  },
+  {
+    "title": "דניאל פרק יב",
+    "txt_file_path": "app_data/writings/daniel/12.txt"
+  },
+  {
+    "title": "עזרא פרק א",
+    "txt_file_path": "app_data/writings/ezra/1.txt"
+  },
+  {
+    "title": "עזרא פרק ב",
+    "txt_file_path": "app_data/writings/ezra/2.txt"
+  },
+  {
+    "title": "עזרא פרק ג",
+    "txt_file_path": "app_data/writings/ezra/3.txt"
+  },
+  {
+    "title": "עזרא פרק ד",
+    "txt_file_path": "app_data/writings/ezra/4.txt"
+  },
+  {
+    "title": "עזרא פרק ה",
+    "txt_file_path": "app_data/writings/ezra/5.txt"
+  },
+  {
+    "title": "עזרא פרק ו",
+    "txt_file_path": "app_data/writings/ezra/6.txt"
+  },
+  {
+    "title": "עזרא פרק ז",
+    "txt_file_path": "app_data/writings/ezra/7.txt"
+  },
+  {
+    "title": "עזרא פרק ח",
+    "txt_file_path": "app_data/writings/ezra/8.txt"
+  },
+  {
+    "title": "עזרא פרק ט",
+    "txt_file_path": "app_data/writings/ezra/9.txt"
+  },
+  {
+    "title": "עזרא פרק י",
+    "txt_file_path": "app_data/writings/ezra/10.txt"
+  },
+  {
+    "title": "נחמיה פרק א",
+    "txt_file_path": "app_data/writings/nehemiah/1.txt"
+  },
+  {
+    "title": "נחמיה פרק ב",
+    "txt_file_path": "app_data/writings/nehemiah/2.txt"
+  },
+  {
+    "title": "נחמיה פרק ג",
+    "txt_file_path": "app_data/writings/nehemiah/3.txt"
+  },
+  {
+    "title": "נחמיה פרק ד",
+    "txt_file_path": "app_data/writings/nehemiah/4.txt"
+  },
+  {
+    "title": "נחמיה פרק ה",
+    "txt_file_path": "app_data/writings/nehemiah/5.txt"
+  },
+  {
+    "title": "נחמיה פרק ו",
+    "txt_file_path": "app_data/writings/nehemiah/6.txt"
+  },
+  {
+    "title": "נחמיה פרק ז",
+    "txt_file_path": "app_data/writings/nehemiah/7.txt"
+  },
+  {
+    "title": "נחמיה פרק ח",
+    "txt_file_path": "app_data/writings/nehemiah/8.txt"
+  },
+  {
+    "title": "נחמיה פרק ט",
+    "txt_file_path": "app_data/writings/nehemiah/9.txt"
+  },
+  {
+    "title": "נחמיה פרק י",
+    "txt_file_path": "app_data/writings/nehemiah/10.txt"
+  },
+  {
+    "title": "נחמיה פרק יא",
+    "txt_file_path": "app_data/writings/nehemiah/11.txt"
+  },
+  {
+    "title": "נחמיה פרק יב",
+    "txt_file_path": "app_data/writings/nehemiah/12.txt"
+  },
+  {
+    "title": "נחמיה פרק יג",
+    "txt_file_path": "app_data/writings/nehemiah/13.txt"
+  },
+  {
+    "title": "דברי הימים א פרק א",
+    "txt_file_path": "app_data/writings/i_chronicles/1.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ב",
+    "txt_file_path": "app_data/writings/i_chronicles/2.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ג",
+    "txt_file_path": "app_data/writings/i_chronicles/3.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ד",
+    "txt_file_path": "app_data/writings/i_chronicles/4.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ה",
+    "txt_file_path": "app_data/writings/i_chronicles/5.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ו",
+    "txt_file_path": "app_data/writings/i_chronicles/6.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ז",
+    "txt_file_path": "app_data/writings/i_chronicles/7.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ח",
+    "txt_file_path": "app_data/writings/i_chronicles/8.txt"
+  },
+  {
+    "title": "דברי הימים א פרק ט",
+    "txt_file_path": "app_data/writings/i_chronicles/9.txt"
+  },
+  {
+    "title": "דברי הימים א פרק י",
+    "txt_file_path": "app_data/writings/i_chronicles/10.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יא",
+    "txt_file_path": "app_data/writings/i_chronicles/11.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יב",
+    "txt_file_path": "app_data/writings/i_chronicles/12.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יג",
+    "txt_file_path": "app_data/writings/i_chronicles/13.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יד",
+    "txt_file_path": "app_data/writings/i_chronicles/14.txt"
+  },
+  {
+    "title": "דברי הימים א פרק טו",
+    "txt_file_path": "app_data/writings/i_chronicles/15.txt"
+  },
+  {
+    "title": "דברי הימים א פרק טז",
+    "txt_file_path": "app_data/writings/i_chronicles/16.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יז",
+    "txt_file_path": "app_data/writings/i_chronicles/17.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יח",
+    "txt_file_path": "app_data/writings/i_chronicles/18.txt"
+  },
+  {
+    "title": "דברי הימים א פרק יט",
+    "txt_file_path": "app_data/writings/i_chronicles/19.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כ",
+    "txt_file_path": "app_data/writings/i_chronicles/20.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כא",
+    "txt_file_path": "app_data/writings/i_chronicles/21.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כב",
+    "txt_file_path": "app_data/writings/i_chronicles/22.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כג",
+    "txt_file_path": "app_data/writings/i_chronicles/23.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כד",
+    "txt_file_path": "app_data/writings/i_chronicles/24.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כה",
+    "txt_file_path": "app_data/writings/i_chronicles/25.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כו",
+    "txt_file_path": "app_data/writings/i_chronicles/26.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כז",
+    "txt_file_path": "app_data/writings/i_chronicles/27.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כח",
+    "txt_file_path": "app_data/writings/i_chronicles/28.txt"
+  },
+  {
+    "title": "דברי הימים א פרק כט",
+    "txt_file_path": "app_data/writings/i_chronicles/29.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק א",
+    "txt_file_path": "app_data/writings/ii_chronicles/1.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ב",
+    "txt_file_path": "app_data/writings/ii_chronicles/2.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ג",
+    "txt_file_path": "app_data/writings/ii_chronicles/3.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ד",
+    "txt_file_path": "app_data/writings/ii_chronicles/4.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ה",
+    "txt_file_path": "app_data/writings/ii_chronicles/5.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ו",
+    "txt_file_path": "app_data/writings/ii_chronicles/6.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ז",
+    "txt_file_path": "app_data/writings/ii_chronicles/7.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ח",
+    "txt_file_path": "app_data/writings/ii_chronicles/8.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ט",
+    "txt_file_path": "app_data/writings/ii_chronicles/9.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק י",
+    "txt_file_path": "app_data/writings/ii_chronicles/10.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יא",
+    "txt_file_path": "app_data/writings/ii_chronicles/11.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יב",
+    "txt_file_path": "app_data/writings/ii_chronicles/12.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יג",
+    "txt_file_path": "app_data/writings/ii_chronicles/13.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יד",
+    "txt_file_path": "app_data/writings/ii_chronicles/14.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק טו",
+    "txt_file_path": "app_data/writings/ii_chronicles/15.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק טז",
+    "txt_file_path": "app_data/writings/ii_chronicles/16.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יז",
+    "txt_file_path": "app_data/writings/ii_chronicles/17.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יח",
+    "txt_file_path": "app_data/writings/ii_chronicles/18.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק יט",
+    "txt_file_path": "app_data/writings/ii_chronicles/19.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כ",
+    "txt_file_path": "app_data/writings/ii_chronicles/20.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כא",
+    "txt_file_path": "app_data/writings/ii_chronicles/21.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כב",
+    "txt_file_path": "app_data/writings/ii_chronicles/22.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כג",
+    "txt_file_path": "app_data/writings/ii_chronicles/23.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כד",
+    "txt_file_path": "app_data/writings/ii_chronicles/24.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כה",
+    "txt_file_path": "app_data/writings/ii_chronicles/25.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כו",
+    "txt_file_path": "app_data/writings/ii_chronicles/26.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כז",
+    "txt_file_path": "app_data/writings/ii_chronicles/27.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כח",
+    "txt_file_path": "app_data/writings/ii_chronicles/28.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק כט",
+    "txt_file_path": "app_data/writings/ii_chronicles/29.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק ל",
+    "txt_file_path": "app_data/writings/ii_chronicles/30.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק לא",
+    "txt_file_path": "app_data/writings/ii_chronicles/31.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק לב",
+    "txt_file_path": "app_data/writings/ii_chronicles/32.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק לג",
+    "txt_file_path": "app_data/writings/ii_chronicles/33.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק לד",
+    "txt_file_path": "app_data/writings/ii_chronicles/34.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק לה",
+    "txt_file_path": "app_data/writings/ii_chronicles/35.txt"
+  },
+  {
+    "title": "דברי הימים ב פרק לו",
+    "txt_file_path": "app_data/writings/ii_chronicles/36.txt"
+  }
+]
