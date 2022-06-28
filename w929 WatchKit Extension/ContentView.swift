@@ -65,6 +65,7 @@ struct ContentView: View {
     var chapterGuide:[CahpterGuide] =  load("app_data/capter_guide.json")
     var mmap = ""
     var body: some View {
+
         NavigationView {
             ScrollView {
                 ScrollViewReader { value in
@@ -74,6 +75,11 @@ struct ContentView: View {
                             curBook = ""
                             viewText = ""
                             title = HOME
+                        }.id(0)
+                    } else {
+                        Button("Daily") {
+                            curBookGroup = "Daily"
+                            loadDailyChapter()
                         }.id(0)
                     }
                     if viewText == "" {
@@ -90,6 +96,7 @@ struct ContentView: View {
                                         Button(b.id) {
                                             curBook = b.id
                                             title = b.id
+                                            value.scrollTo(0)
                                         }
                                     }
                                     if curBook == b.id {
@@ -121,6 +128,15 @@ struct ContentView: View {
                 }
             }
         }.navigationTitle(title)
+    }
+    
+    func loadDailyChapter() {
+        let startDate = Date.init(timeIntervalSince1970: 1644098400) // 06/02/2022 00:00 GMT+2
+        let daySince = Int(startDate.distance(to: Date.now)/86400)
+        let weekPassInt = daySince / 7
+        let dayReminder = daySince % 7
+        let index = weekPassInt * 5 + min(dayReminder, 4)
+        loadChapter(x: index)
     }
     
     
