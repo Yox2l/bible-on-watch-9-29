@@ -8,6 +8,7 @@
 import SwiftUI
 
 var HOME = "תוכן"
+var DAILY = "הפרק היומי"
 
 struct Chapter: Decodable, Identifiable {
     let id: String
@@ -36,13 +37,11 @@ func load<T: Decodable>(_ filename: String) -> T {
         else {
             fatalError("Couldn't find \(filename) in main bundle.")
     }
-
     do {
         data = try Data(contentsOf: file)
     } catch {
         fatalError("Couldn't load \(filename) from main bundle:\n\(error)")
     }
-
     do {
         let decoder = JSONDecoder()
         return try decoder.decode(T.self, from: data)
@@ -51,21 +50,19 @@ func load<T: Decodable>(_ filename: String) -> T {
     }
 }
 
-struct ContentView: View {
+var bookGroup:[BookGroup] =  load("app_data/map.json")
+var chapterGuide:[CahpterGuide] =  load("app_data/capter_guide.json")
 
+struct ContentView: View {
+    @State private var pos = 0
     @State private var viewText = ""
     @State private var curBookGroup = ""
     @State private var curBook = ""
-    
     @State private var title = HOME
     @State private var prevTitle = ""
     @State private var nextTitle = ""
-    @State private var pos = 0
-    var bookGroup:[BookGroup] =  load("app_data/map.json")
-    var chapterGuide:[CahpterGuide] =  load("app_data/capter_guide.json")
-    var mmap = ""
+    
     var body: some View {
-
         NavigationView {
             ScrollView {
                 ScrollViewReader { value in
@@ -77,10 +74,10 @@ struct ContentView: View {
                             title = HOME
                         }.id(0)
                     } else {
-                        Button("Daily") {
+                        Button(DAILY) {
                             curBookGroup = "Daily"
                             loadDailyChapter()
-                        }.id(0)
+                        }
                     }
                     if viewText == "" {
                         ForEach(bookGroup) { g in
@@ -102,7 +99,7 @@ struct ContentView: View {
                                     if curBook == b.id {
                                         ForEach(b.chapters) { c in
                                             Button(c.id) {
-                                                loadChapter(x: c.index)
+                                                loadChapter(newPos: c.index)
                                                 value.scrollTo(0)
                                             }
                                         }
@@ -114,13 +111,14 @@ struct ContentView: View {
                     } else {
                         if prevTitle != "" {
                             Button(prevTitle) {
-                                loadChapter(x: pos - 1)
+                                loadChapter(newPos: pos - 1)
+                                value.scrollTo(0)
                             }
                         }
                         Text(viewText).multilineTextAlignment(.trailing).lineLimit(nil)
                         if nextTitle != "" {
                             Button(nextTitle) {
-                                loadChapter(x: pos + 1)
+                                loadChapter(newPos: pos + 1)
                                 value.scrollTo(0)
                             }
                         }
@@ -136,30 +134,26 @@ struct ContentView: View {
         let weekPassInt = daySince / 7
         let dayReminder = daySince % 7
         let index = weekPassInt * 5 + min(dayReminder, 4)
-        loadChapter(x: index)
+        loadChapter(newPos: index)
     }
     
     
-    func loadChapter(x: Int) {
-        let filename = "\(x).txt"
-        print("loading: \(filename)")
-        print(chapterGuide[x])
-        let chapterData = chapterGuide[x]
+    func loadChapter(newPos: Int) {
+        let chapterData = chapterGuide[newPos]
         if let filepath = Bundle.main.path(forResource: chapterData.txt_file_path, ofType: nil) {
             do {
                 viewText = try String(contentsOfFile: filepath)
                 title = chapterData.title
                 prevTitle = ""
                 nextTitle = ""
-                if x > 0 {
-                    prevTitle = chapterGuide[x - 1].title
+                if newPos > 0 {
+                    prevTitle = chapterGuide[newPos - 1].title
                 }
-                if x + 1 < chapterGuide.count {
-                    nextTitle = chapterGuide[x + 1].title
+                if newPos + 1 < chapterGuide.count {
+                    nextTitle = chapterGuide[newPos + 1].title
                 }
-                pos = x
+                pos = newPos
             } catch {
-                // contents could not be loaded
             }
         }
     }
