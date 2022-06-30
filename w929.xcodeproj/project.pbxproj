@@ -211,11 +211,11 @@
 			};
 			buildConfigurationList = ACA1FEF22857A250005B80E8 /* Build configuration list for PBXProject "w929" */;
 			compatibilityVersion = "Xcode 13.0";
-			developmentRegion = en;
+			developmentRegion = he;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
+				he,
 			);
 			mainGroup = ACA1FEEE2857A250005B80E8;
 			productRefGroup = ACA1FEF62857A250005B80E8 /* Products */;
