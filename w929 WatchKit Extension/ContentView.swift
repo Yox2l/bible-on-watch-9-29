@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-var HOME = "תוכן"
+var HOME = "תפריט ראשי"
 var DAILY = "הפרק היומי"
 
 struct Chapter: Decodable, Identifiable {
@@ -50,7 +50,11 @@ func load<T: Decodable>(_ filename: String) -> T {
     }
 }
 
-var bookGroup:[BookGroup] =  load("app_data/map.json")
+func getColor(r: Double, g: Double, b: Double) -> Color {
+    return Color(red: r / 255, green: g / 255, blue: b / 255)
+}
+
+var bookGroups:[BookGroup] =  load("app_data/map.json")
 var chapterGuide:[CahpterGuide] =  load("app_data/capter_guide.json")
 
 struct ContentView: View {
@@ -67,39 +71,55 @@ struct ContentView: View {
             ScrollView {
                 ScrollViewReader { value in
                     if curBookGroup != "" {
-                        Button(HOME) {
-                            curBookGroup = ""
-                            curBook = ""
-                            viewText = ""
-                            title = HOME
+                        HStack {
+                            Button {
+                                curBookGroup = ""
+                                curBook = ""
+                                viewText = ""
+                                title = HOME
+                            } label: {
+                                Label(HOME, systemImage: "menucard")
+                            }.background(getColor(r: 255, g: 66, b:161)).cornerRadius(8)
+                            if viewText != "" && prevTitle != "" {
+                                Button {
+                                    loadChapter(newPos: pos - 1)
+                                    value.scrollTo(0)
+                                } label: {
+                                    Label(prevTitle, systemImage: "arrow.forward")
+                                }.background(getColor(r: 254, g: 174, b:0)).cornerRadius(8)
+                            }
                         }.id(0)
                     } else {
-                        Button(DAILY) {
+                        Button {
                             curBookGroup = "Daily"
                             loadDailyChapter()
+                        } label: {
+                            Label(DAILY, systemImage: "pencil")
                         }
+                        .background(getColor(r: 0, g: 161, b:255)).cornerRadius(8)
                     }
+                    Spacer(minLength: 20)
                     if viewText == "" {
-                        ForEach(bookGroup) { g in
+                        ForEach(bookGroups) { bookGroup in
                             if curBookGroup == "" {
-                                Button(g.id) {
-                                    curBookGroup = g.id
-                                    title = g.id
+                                Button(bookGroup.id) {
+                                    curBookGroup = bookGroup.id
+                                    title = bookGroup.id
                                 }
                             }
-                            if curBookGroup == g.id {
-                                ForEach(g.books) { b in
+                            if curBookGroup == bookGroup.id {
+                                ForEach(bookGroup.books) { book in
                                     if curBook == "" {
-                                        Button(b.id) {
-                                            curBook = b.id
-                                            title = b.id
+                                        Button(book.id) {
+                                            curBook = book.id
+                                            title = book.id
                                             value.scrollTo(0)
                                         }
                                     }
-                                    if curBook == b.id {
-                                        ForEach(b.chapters) { c in
-                                            Button(c.id) {
-                                                loadChapter(newPos: c.index)
+                                    if curBook == book.id {
+                                        ForEach(book.chapters) { chapter in
+                                            Button(chapter.id) {
+                                                loadChapter(newPos: chapter.index)
                                                 value.scrollTo(0)
                                             }
                                         }
@@ -109,18 +129,14 @@ struct ContentView: View {
                             }
                         }
                     } else {
-                        if prevTitle != "" {
-                            Button(prevTitle) {
-                                loadChapter(newPos: pos - 1)
-                                value.scrollTo(0)
-                            }
-                        }
                         Text(viewText).multilineTextAlignment(.trailing).lineLimit(nil)
                         if nextTitle != "" {
-                            Button(nextTitle) {
+                            Button {
                                 loadChapter(newPos: pos + 1)
                                 value.scrollTo(0)
-                            }
+                            } label: {
+                                Label(nextTitle, systemImage: "arrow.backward")
+                            }.background(getColor(r: 254, g: 174, b:0)).cornerRadius(8)
                         }
                     }
                 }
@@ -134,7 +150,7 @@ struct ContentView: View {
         let weekPassInt = daySince / 7
         let dayReminder = daySince % 7
         let index = weekPassInt * 5 + min(dayReminder, 4)
-        loadChapter(newPos: index)
+        loadChapter(newPos: index % 929)
     }
     
     
