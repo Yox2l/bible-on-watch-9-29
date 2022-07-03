@@ -34,6 +34,7 @@
       "subtype" : "45mm"
     },
     {
+      "filename" : "BeFunky-design-3-5-2-2.jpg",
       "idiom" : "watch",
       "role" : "appLauncher",
       "scale" : "2x",
@@ -41,6 +42,7 @@
       "subtype" : "38mm"
     },
     {
+      "filename" : "BeFunky-design-3-5-2.jpg",
       "idiom" : "watch",
       "role" : "appLauncher",
       "scale" : "2x",
@@ -48,6 +50,7 @@
       "subtype" : "40mm"
     },
     {
+      "filename" : "BeFunky-design-3-5.jpg",
       "idiom" : "watch",
       "role" : "appLauncher",
       "scale" : "2x",
@@ -55,6 +58,7 @@
       "subtype" : "41mm"
     },
     {
+      "filename" : "BeFunky-design-3-3.jpg",
       "idiom" : "watch",
       "role" : "appLauncher",
       "scale" : "2x",
@@ -62,6 +66,7 @@
       "subtype" : "44mm"
     },
     {
+      "filename" : "BeFunky-design-3-2.jpg",
       "idiom" : "watch",
       "role" : "appLauncher",
       "scale" : "2x",
@@ -69,6 +74,7 @@
       "subtype" : "45mm"
     },
     {
+      "filename" : "BeFunky-design-3-10.jpg",
       "idiom" : "watch",
       "role" : "quickLook",
       "scale" : "2x",
@@ -76,6 +82,7 @@
       "subtype" : "38mm"
     },
     {
+      "filename" : "BeFunky-design-3-9.jpg",
       "idiom" : "watch",
       "role" : "quickLook",
       "scale" : "2x",
@@ -83,6 +90,7 @@
       "subtype" : "42mm"
     },
     {
+      "filename" : "BeFunky-design-3-8.jpg",
       "idiom" : "watch",
       "role" : "quickLook",
       "scale" : "2x",
@@ -90,6 +98,7 @@
       "subtype" : "44mm"
     },
     {
+      "filename" : "BeFunky-design-3-7.jpg",
       "idiom" : "watch",
       "role" : "quickLook",
       "scale" : "2x",
@@ -97,6 +106,7 @@
       "subtype" : "45mm"
     },
     {
+      "filename" : "BeFunky-design-3-6.jpg",
       "idiom" : "watch-marketing",
       "scale" : "1x",
       "size" : "1024x1024"

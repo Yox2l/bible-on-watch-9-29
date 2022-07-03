@@ -33,7 +33,7 @@ struct CahpterGuide: Decodable {
     let txt_file_path: String
 }
 
-func load<T: Decodable>(_ filename: String) -> T {
+func loadJsonFile<T: Decodable>(_ filename: String) -> T {
     let data: Data
 
     guard let file = Bundle.main.url(forResource: filename, withExtension: nil)
@@ -54,7 +54,8 @@ func load<T: Decodable>(_ filename: String) -> T {
 }
 
 func getColor(r: Double, g: Double, b: Double) -> Color {
-    return Color(red: r / 255, green: g / 255, blue: b / 255)
+    // using 295 instead of 255 to get darker colors
+    return Color(red: r / 295, green: g / 295, blue: b / 295)
 }
 
 func strToColor(clrStr: String) -> Color {
@@ -62,8 +63,8 @@ func strToColor(clrStr: String) -> Color {
     return getColor(r: Double(sp[0])!, g: Double(sp[1])!, b: Double(sp[2])!)
 }
 
-var bookGroups:[BookGroup] =  load("app_data/map.json")
-var chapterGuide:[CahpterGuide] =  load("app_data/capter_guide.json")
+var bookGroups:[BookGroup] =  loadJsonFile("app_data/map.json")
+var chapterGuide:[CahpterGuide] =  loadJsonFile("app_data/capter_guide.json")
 
 struct ContentView: View {
     @State private var pos = 0
@@ -144,6 +145,7 @@ struct ContentView: View {
                         }
                     } else {
                         Text(viewText).lineLimit(nil)
+                        Spacer(minLength: 20)
                         if nextTitle != "" {
                             Button {
                                 loadChapter(newPos: pos + 1)

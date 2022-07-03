@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC6E5AEE287238BE003FAC6E /* timelines.json in Resources */ = {isa = PBXBuildFile; fileRef = AC6E5AEC287238BE003FAC6E /* timelines.json */; };
+		AC6E5AEF287238BE003FAC6E /* scrap.js in Resources */ = {isa = PBXBuildFile; fileRef = AC6E5AED287238BE003FAC6E /* scrap.js */; };
 		ACA1FEFA2857A250005B80E8 /* w929 WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = ACA1FEF92857A250005B80E8 /* w929 WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		ACA1FEFF2857A252005B80E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA1FEFE2857A252005B80E8 /* Assets.xcassets */; };
 		ACA1FF052857A252005B80E8 /* w929 WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = ACA1FF042857A252005B80E8 /* w929 WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -61,6 +63,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AC6E5AEC287238BE003FAC6E /* timelines.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = timelines.json; sourceTree = "<group>"; };
+		AC6E5AED287238BE003FAC6E /* scrap.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = scrap.js; sourceTree = "<group>"; };
 		ACA1FEF52857A250005B80E8 /* w929.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = w929.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACA1FEF92857A250005B80E8 /* w929 WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "w929 WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACA1FEFE2857A252005B80E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -117,6 +121,8 @@
 			children = (
 				ACA1FF092857A252005B80E8 /* ContentView.swift */,
 				ACA1FF0B2857A252005B80E8 /* w929App.swift */,
+				AC6E5AED287238BE003FAC6E /* scrap.js */,
+				AC6E5AEC287238BE003FAC6E /* timelines.json */,
 				ACA1FF0D2857A252005B80E8 /* ComplicationController.swift */,
 				ACA1FF0F2857A253005B80E8 /* Assets.xcassets */,
 				ACF40510286A3D11008C41B0 /* app_data */,
@@ -249,7 +255,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC6E5AEE287238BE003FAC6E /* timelines.json in Resources */,
 				ACF40511286A3D11008C41B0 /* app_data in Resources */,
+				AC6E5AEF287238BE003FAC6E /* scrap.js in Resources */,
 				ACA1FF132857A253005B80E8 /* Preview Assets.xcassets in Resources */,
 				ACA1FF102857A253005B80E8 /* Assets.xcassets in Resources */,
 			);
